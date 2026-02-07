@@ -1,0 +1,200 @@
+1|1|C++ is a ____ language?|Procedural|Object Oriented|Both|None|3
+1|1|Who invented C++?|Dennis Ritchie|Bjarne Stroustrup|Guido van Rossum|James Gosling|2
+1|1|Which symbol is used for single line comment?|//|/* */|#|--|1
+1|1|Which function is the entry point of C++ program?|start()|main()|program()|run()|2
+1|1|Which header file is needed for cout?|<stdio.h>|<conio.h>|<iostream>|<stdlib.h>|3
+1|1|Which operator is used for output?|>>|<<|<>|&&|2
+1|1|Which operator is used for input?|<<|>>|==|!=|2
+1|1|C++ supports which programming paradigm?|Procedural|OOP|Both|None|3
+1|1|Which keyword is used to define constant?|const|define|static|final|1
+1|1|Which symbol ends a statement?|.|;|:|,|2
+1|1|Which data type stores whole numbers?|float|double|int|char|3
+1|1|Which data type stores decimal numbers?|int|char|float|bool|3
+1|1|Which keyword is used to declare variable?|var|int|declare|auto|2
+1|1|Which operator is arithmetic?|&&|+|==|!=|2
+1|1|Which loop executes at least once?|for|while|do-while|none|3
+1|1|Which keyword is used to return value?|return|break|continue|exit|1
+1|1|Which keyword stops a loop?|stop|break|exit|end|2
+1|1|Which keyword skips current iteration?|skip|continue|pass|next|2
+1|1|Which operator compares equality?|=|==|!=|<=|2
+1|1|Which symbol is used for logical AND?|&|&&|||2
+1|1|Which symbol is used for logical OR?|&|||&&|2
+1|1|Which header is used for string?|<string>|<cstring>|Both|None|3
+1|1|Which data type stores single character?|int|float|char|string|3
+1|1|Which keyword is used for decision making?|if|loop|switch|goto|1
+1|1|Which keyword creates infinite loop?|for|while(true)|loop|repeat|2
+1|1|Which operator increases value by 1?|--|++|+=|*=|2
+1|1|Which operator decreases value by 1?|++|--|-=|/=|2
+1|1|Which symbol denotes block start?|{|(|[|<|1
+1|1|Which symbol denotes block end?|}|)|]|>|1
+1|1|Which keyword defines function?|def|function|void|func|3
+1|1|Which data type stores true/false?|bool|int|char|float|1
+1|1|Which header supports math functions?|<math>|<cmath>|<maths>|<stdlib>|2
+1|1|Which keyword is used to include file?|include|#include|import|using|2
+1|1|Which keyword defines namespace?|namespace|using|scope|std|1
+1|1|Which namespace contains cout?|iostream|std|main|global|2
+1|1|Which symbol accesses namespace?|::|.|->|:|1
+1|1|Which keyword ends program immediately?|exit|stop|return|break|1
+1|2|Which loop is best when iterations are known?|while|do-while|for|goto|3
+1|2|What is sizeof(int) typically?|2 bytes|4 bytes|8 bytes|Depends|4
+1|2|Which operator has highest precedence?|+|*|()|=|3
+1|2|Which keyword is used for multiple conditions?|if|else if|switch|case|3
+1|2|What is default return type of main()?|void|float|int|char|3
+1|2|Which concept allows reuse of code?|Inheritance|Polymorphism|Function|Encapsulation|3
+1|2|Which loop checks condition first?|do-while|for|while|none|3
+1|2|Which keyword is used to define array?|array|list|[]|none|4
+1|2|Which array index starts from?|0|1|-1|Depends|1
+1|2|Which operator accesses array element?|()|[]|{}|<>|2
+1|2|Which keyword declares pointer?|ptr|pointer|*|int*|4
+1|2|Which symbol is used for address?|*|&|#|@|2
+1|2|Which operator accesses value of pointer?|&|*|->|.|2
+1|2|Which loop is entry-controlled?|do-while|while|none|repeat|2
+1|2|Which loop is exit-controlled?|for|while|do-while|if|3
+1|2|Which keyword avoids name conflict?|using|namespace|std|scope|2
+1|2|Which statement skips loop iteration?|break|continue|return|exit|2
+1|2|Which keyword exits function?|exit|return|break|stop|2
+1|2|Which operator is ternary?|?:|&&|==|++|1
+1|2|Which data structure stores same type?|Array|Structure|Union|Class|1
+1|2|Which keyword defines structure?|struct|structure|record|object|1
+1|2|Which operator accesses structure member?|.|->|::|*|1
+1|2|Which keyword defines constant variable?|const|final|define|static|1
+1|2|Which operator performs modulo?|/|%|*|+|2
+1|2|Which keyword jumps to label?|goto|jump|label|continue|1
+1|2|Which operator is relational?|+|==|&&|++|2
+1|2|Which function generates random number?|rand()|random()|srand()|gen()|1
+1|2|Which function seeds random generator?|rand()|seed()|srand()|time()|3
+1|2|Which header supports rand()?|<cstdlib>|<stdlib>|Both|None|3
+1|2|Which operator checks inequality?|==|!=|<=|>=|2
+1|2|Which loop is best for menu-driven programs?|for|while|do-while|goto|3
+1|2|Which concept binds name to memory?|Compilation|Execution|Declaration|Assignment|3
+1|3|Output of 5/2 in C++?|2|2.5|3|Error|1
+1|3|What is dangling pointer?|Unused pointer|Deleted memory pointer|Null pointer|Garbage pointer|2
+1|3|Which memory stores local variables?|Heap|Stack|Data|Code|2
+1|3|Which memory is allocated dynamically?|Stack|Heap|Register|Cache|2
+1|3|Which operator allocates memory dynamically?|malloc|alloc|new|create|3
+1|3|Which operator frees memory?|delete|free|remove|Both 1 & 2|4
+1|3|Which keyword prevents inheritance?|private|final|const|virtual|2
+1|3|Which function returns no value?|void|int|float|double|1
+1|3|Which operator has lowest precedence?|=|+|*|()|1
+1|3|What is function overloading?|Same name diff params|Same params diff return|Multiple functions|None|1
+1|3|Which keyword allows function override?|override|virtual|dynamic|static|2
+1|3|Which binding occurs at runtime?|Static|Dynamic|Compile-time|Early|2
+1|3|Which keyword creates reference?|ref|reference|&|*|3
+1|3|Which type conversion is implicit?|Type casting|Coercion|Explicit|Manual|2
+1|3|Which operator checks pointer validity?|NULL|nullptr|0|all|4
+1|3|Which standard supports nullptr?|C++98|C++03|C++11|C++14|3
+1|3|Which keyword stops object copying?|delete|private|const|explicit|4
+1|3|Which concept hides implementation?|Inheritance|Encapsulation|Polymorphism|Abstraction|4
+1|3|Which operator accesses class member via pointer?|.|::|->|*|3
+1|3|Which keyword prevents modification?|const|static|final|lock|1
+1|3|Which error occurs during execution?|Syntax|Compile|Runtime|Logical|3
+1|3|Which error is hardest to detect?|Syntax|Compile|Runtime|Logical|4
+1|3|Which file extension is for C++?|.c|.cpp|.cp|.cxx|2
+1|3|Which header handles file I/O?|<file>|<fstream>|<io>|<stream>|2
+1|3|Which class writes to file?|ifstream|ofstream|fstream|writer|2
+1|2|Which keyword creates constant pointer?|const|static|final|define|1
+1|2|Which operator combines conditions?|&&|||==|1
+1|2|Which header file handles file input?|<file>|<fstream>|<stream>|<io>|2
+1|2|Which stream reads from file?|ofstream|ifstream|fstream|iostream|2
+1|2|Which stream writes to file?|ifstream|ofstream|fstream|iostream|2
+1|2|Which keyword is used to open file?|open|ifstream|ofstream|fstream|4
+1|2|Which keyword closes file?|close|end|stop|terminate|1
+1|2|Which function checks end of file?|eof()|end()|stop()|close()|1
+1|2|Which keyword defines union?|union|struct|class|record|1
+1|2|Which memory is fastest?|Heap|Stack|Cache|Register|4
+1|2|Which loop is best for menu repetition?|for|while|do-while|goto|3
+1|2|Which operator accesses reference?|&|*|->|.|1
+1|2|Which keyword is used to define macro?|#define|const|macro|typedef|1
+1|2|Which keyword renames data type?|typedef|define|alias|using|1
+1|2|Which operator performs bitwise AND?|&|&&|||%|1
+1|2|Which operator performs bitwise OR?|&|||&&|+|2
+1|2|Which operator performs bitwise XOR?|^|&|||%|1
+1|2|Which operator shifts bits left?|<<|>>|<<<|<<<|1
+1|2|Which operator shifts bits right?|>>|<<|>>>|<<<|1
+1|2|Which loop suits unknown iterations?|for|while|do-while|goto|2
+1|2|Which keyword exits loop immediately?|break|continue|return|exit|1
+1|2|Which header supports time functions?|<time>|<ctime>|<clock>|<timer>|2
+1|2|Which function returns current time?|time()|now()|clock()|gettime()|1
+1|2|Which keyword avoids copying?|explicit|delete|private|const|1
+1|2|Which keyword prevents function override?|final|virtual|static|inline|1
+1|2|Which operator checks less than?|<|>|<=|>=|1
+1|2|Which operator checks greater than?|<|>|<=|>=|2
+1|2|Which keyword is used for multiple choice?|if|else|switch|case|3
+1|2|Which keyword labels switch option?|option|label|case|default|3
+1|2|Which keyword handles no match case?|case|else|none|default|4
+1|2|Which header supports limits?|<limit>|<limits>|<bound>|<size>|2
+1|2|Which operator returns address?|*|&|->|.|2
+1|2|Which keyword creates alias?|alias|typedef|rename|using|2
+1|2|Which operator checks logical NOT?|!|~|!=|==|1
+1|2|Which loop ensures one execution?|while|for|do-while|none|3
+1|2|Which memory stores global variables?|Stack|Heap|Data|Code|3
+1|2|Which header supports exit()?|<stdlib>|<cstdlib>|Both|None|3
+1|2|Which operator concatenates strings?|+|<<|&|*|1
+1|2|Which header supports string class?|<string>|<cstring>|Both|None|3
+1|2|Which keyword avoids namespace conflict?|using|namespace|std|scope|2
+1|2|Which keyword converts type explicitly?|cast|type|static_cast|convert|3
+1|2|Which operator checks equality?|=|==|!=|<=|2
+1|2|Which header supports algorithm?|<algo>|<algorithm>|<logic>|<set>|2
+1|2|Which function swaps values?|swap()|change()|exchange()|replace()|1
+1|2|Which keyword prevents modification?|const|static|final|lock|1
+1|3|Which allocation happens at runtime?|Static|Dynamic|Global|Register|2
+1|3|Which memory leak occurs?|Unused heap memory|Stack overflow|Cache miss|None|1
+1|3|Which operator deletes array memory?|delete|delete[]|free|remove|2
+1|3|Which keyword avoids implicit conversion?|explicit|const|inline|virtual|1
+1|3|Which constructor has no parameters?|Default|Copy|Move|Parameterized|1
+1|3|Which constructor copies object?|Copy|Move|Default|Static|1
+1|3|Which keyword prevents object creation?|private|delete|protected|final|1
+1|3|Which binding is compile-time?|Dynamic|Late|Static|Runtime|3
+1|3|Which keyword allows base access?|base|super|this|scope|3
+1|3|Which operator resolves scope?|::|.|->|*|1
+1|3|Which keyword avoids name mangling?|extern|static|register|mutable|1
+1|3|Which keyword allows modification in const?|mutable|static|volatile|register|1
+1|3|Which operator overloads insertion?|<<|>>|+|=|1
+1|3|Which operator overloads extraction?|>>|<<|+|=|1
+1|3|Which container stores unique values?|vector|list|set|map|3
+1|3|Which container stores key-value pairs?|list|set|map|vector|3
+1|3|Which iterator moves forward only?|Random|Bidirectional|Forward|Input|3
+1|3|Which keyword avoids optimization?|volatile|const|mutable|register|1
+1|3|Which function object is lambda?|[]|()|{}|<>|1
+1|3|Which standard introduced auto?|C++98|C++03|C++11|C++14|3
+1|3|Which standard introduced nullptr?|C++98|C++03|C++11|C++14|3
+1|3|Which standard introduced range for?|C++98|C++03|C++11|C++14|3
+1|3|Which operator checks type?|typeid|typeof|is|instanceof|1
+1|3|Which header supports typeid?|<typeinfo>|<type>|<info>|<meta>|1
+1|3|Which keyword avoids exception?|noexcept|throw|try|catch|1
+1|3|Which block handles exception?|try|catch|throw|finally|2
+1|3|Which keyword throws exception?|throw|catch|try|error|1
+1|3|Which function cleans resources?|destructor|constructor|delete|free|1
+1|3|Which operator invokes destructor?|delete|free|destroy|~|1
+1|3|Which keyword creates virtual table?|virtual|override|dynamic|static|1
+1|3|Which error is logic related?|Syntax|Compile|Runtime|Logical|4
+1|3|Which error stops compilation?|Syntax|Runtime|Logical|Warning|1
+1|3|Which concept uses base pointer?|Inheritance|Encapsulation|Polymorphism|Abstraction|3
+1|3|Which cast is safest?|C-style|static_cast|reinterpret_cast|dynamic_cast|4
+1|3|Which cast checks runtime?|static_cast|reinterpret_cast|const_cast|dynamic_cast|4
+1|3|Which keyword disables copying?|delete|explicit|private|const|1
+1|3|Which operator invokes function?|()|[]|{}|<>|1
+1|3|Which header supports exception?|<exception>|<error>|<throw>|<catch>|1
+1|3|Which keyword prevents rethrow?|noexcept|throw|try|catch|1
+1|3|Which concept separates interface?|Encapsulation|Abstraction|Inheritance|Polymorphism|2
+1|3|Which feature supports generic code?|Function|Template|Macro|Overload|2
+1|3|Which keyword defines template?|template|generic|typename|class|1
+1|3|Which operator resolves pointer member?|->|.|::|*|1
+1|2|Which of the following is the correct way to declare a constant pointer in C++?|int * const p;|const int * p;|int const * const p;|const int p;|1
+1|1|What will sizeof(char) return in C++?|0|1|2|Depends on compiler|2
+1|2|Which keyword is used to prevent inheritance of a class?|private|static|final|sealed|3
+1|1|Which operator is used to allocate memory dynamically in C++?|malloc|alloc|new|create|3
+1|1|What is the default access specifier for members of a class?|public|protected|private|static|3
+1|1|Which of the following supports function overloading?|C|C++|Both C and C++|Neither|2
+1|2|What happens if a destructor is not defined in a class?|Compilation error|Runtime error|Compiler generates a default destructor|Object cannot be destroyed|3
+1|1|Which STL container does not allow duplicate elements?|vector|list|multiset|set|4
+1|1|What is the output of: cout << (5 > 3 && 2 < 1);?|true|false|1|0|4
+1|1|Which of the following is a correct constructor name?|constructor()|~ClassName()|ClassName()|init()|3
+1|2|Which C++ feature allows the same function name with different parameters?|Inheritance|Polymorphism|Encapsulation|Abstraction|2
+1|2|What is the use of the virtual keyword?|Memory allocation|Function overriding|Function hiding|Template creation|2
+1|1|Which header file is required for using vector?|<array>|<list>|<map>|<vector>|4
+1|1|What does nullptr represent?|Integer zero|Garbage value|Null pointer constant|Boolean false|3
+1|3|Which type of inheritance is not supported directly in C++?|Single|Multiple|Multilevel|Hybrid|4
+1|1|What is the scope resolution operator?|:|::|->|.|2
+1|2|Which keyword is used to handle exceptions?|error|catch|handle|throw|2
+1|2|What will happen if delete is not used for dynamically allocated memory?|Compilation error|Runtime crash|Memory leak|Program termination|3

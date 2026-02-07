@@ -1,0 +1,200 @@
+8|1|Which data structure uses LIFO (Last In First Out) principle?|Stack|Queue|Array|Linked List|1
+8|1|Which data structure uses FIFO (First In First Out) principle?|Queue|Stack|Array|Linked List|1
+8|1|What is the time complexity to access an element by index in an array?|O(1)|O(n)|O(log n)|O(n^2)|1
+8|1|Which data structure stores elements in contiguous memory?|Array|Linked List|Stack|Queue|1
+8|1|Which linked list allows traversal in both directions?|Doubly Linked List|Singly Linked List|Circular Linked List|Stack|1
+8|1|Which operation adds an element to the top of the stack?|Push|Pop|Enqueue|Dequeue|1
+8|1|Which operation removes an element from the stack?|Pop|Push|Enqueue|Dequeue|1
+8|1|Which operation adds an element at the rear of the queue?|Enqueue|Dequeue|Push|Pop|1
+8|1|Which operation removes an element from the front of the queue?|Dequeue|Enqueue|Push|Pop|1
+8|1|What is the time complexity of searching an element in an unsorted array?|O(n)|O(1)|O(log n)|O(n log n)|1
+8|1|Which data structure is used for function call management in programming languages?|Stack|Queue|Array|Linked List|1
+8|1|Which of the following is not a linear data structure?|Tree|Array|Queue|Stack|1
+8|1|What is the maximum number of children a binary tree node can have?|2|3|4|1|1
+8|1|Which data structure is suitable for implementing recursion?|Stack|Queue|Heap|Array|1
+8|1|Which type of linked list points the last node to the first node?|Circular Linked List|Singly Linked List|Doubly Linked List|Stack|1
+8|1|Which data structure allows dynamic memory allocation?|Linked List|Array|Stack|Queue|1
+8|1|What is the worst-case time complexity for searching in a binary search tree?|O(n)|O(log n)|O(n^2)|O(1)|1
+8|1|Which operation in a queue is performed at the front?|Dequeue|Enqueue|Push|Pop|1
+8|1|Which data structure is used in BFS (Breadth-First Search) traversal?|Queue|Stack|Priority Queue|Set|1
+8|1|Which data structure is used in DFS (Depth-First Search) traversal?|Stack|Queue|Priority Queue|Set|1
+8|1|Which sorting algorithm repeatedly swaps adjacent elements if they are in wrong order?|Bubble Sort|Selection Sort|Insertion Sort|Merge Sort|1
+8|1|Which sorting algorithm selects the minimum element and places it at the correct position?|Selection Sort|Bubble Sort|Insertion Sort|Quick Sort|1
+8|1|Which sorting algorithm builds the sorted array one element at a time?|Insertion Sort|Selection Sort|Bubble Sort|Merge Sort|1
+8|1|Which data structure is best for implementing undo operation in editors?|Stack|Queue|Array|Linked List|1
+8|1|Which of the following is a non-linear data structure?|Tree|Array|Queue|Stack|1
+8|1|Which data structure is used in BFS shortest path algorithm for unweighted graphs?|Queue|Stack|Heap|Priority Queue|1
+8|1|Which data structure is used to implement recursion in programming languages?|Stack|Queue|Heap|Linked List|1
+8|1|Which data structure allows insertion and deletion from both ends?|Deque|Queue|Stack|Array|1
+8|1|Which operation is used to remove an element from a deque at the front?|Pop Front|Pop Rear|Push Front|Push Rear|1
+8|1|Which operation is used to remove an element from a deque at the rear?|Pop Rear|Pop Front|Push Rear|Push Front|1
+8|1|Which data structure uses pointers to connect nodes?|Linked List|Array|Stack|Queue|1
+8|1|Which traversal method visits root, left, right nodes?|Preorder|Inorder|Postorder|Level Order|1
+8|1|Which traversal method visits left, root, right nodes?|Inorder|Preorder|Postorder|Level Order|1
+8|1|Which traversal method visits left, right, root nodes?|Postorder|Inorder|Preorder|Level Order|1
+8|1|Which traversal method visits nodes level by level?|Level Order|Preorder|Inorder|Postorder|1
+8|1|Which is the maximum number of nodes at level L in a binary tree?|2^(L-1)|L|2*L|L^2|1
+8|1|Which data structure is used for priority-based scheduling?|Priority Queue|Stack|Queue|Array|1
+8|1|Which data structure is implemented using heaps?|Priority Queue|Queue|Stack|Linked List|1
+8|1|Which data structure uses key-value pairs?|Hash Table|Stack|Queue|Array|1
+8|1|Which operation computes hash(key) to store an element?|Hashing|Sorting|Searching|Indexing|1
+8|1|Which collision resolution method uses linked lists at each bucket?|Chaining|Open Addressing|Double Hashing|Linear Probing|1
+8|1|Which searching algorithm divides the array into halves?|Binary Search|Linear Search|Jump Search|Interpolation Search|1
+8|1|Which searching algorithm works on sorted arrays only?|Binary Search|Linear Search|Jump Search|Exponential Search|1
+8|1|Which algorithm is stable among the following?|Merge Sort|Quick Sort|Heap Sort|Selection Sort|1
+8|1|Which sorting algorithm has worst-case time complexity O(n log n)?|Merge Sort|Quick Sort|Bubble Sort|Insertion Sort|1
+8|1|Which sorting algorithm uses divide and conquer approach?|Merge Sort|Bubble Sort|Selection Sort|Insertion Sort|1
+8|1|Which data structure is suitable for implementing adjacency lists in graphs?|Linked List|Array|Stack|Queue|1
+8|1|Which algorithm is used to detect cycles in directed graphs?|DFS with recursion|BFS|Dijkstra|Prim|1
+8|1|Which data structure is ideal for implementing recursion stack?|Stack|Queue|Array|Linked List|1
+8|1|Which type of queue allows circular movement?|Circular Queue|Deque|Priority Queue|Double Ended Queue|1
+8|1|Which data structure stores nodes based on parent-child relationships?|Tree|Array|Stack|Queue|1
+8|1|Which binary tree has all levels completely filled except possibly the last?|Complete Binary Tree|Full Binary Tree|Perfect Binary Tree|Balanced Binary Tree|1
+8|2|What is the average time complexity of searching in a balanced binary search tree?|O(log n)|O(n)|O(1)|O(n log n)|1
+8|2|Which traversal of a binary search tree gives sorted order of elements?|Inorder|Preorder|Postorder|Level Order|1
+8|2|What is the time complexity of inserting an element in a hash table with chaining?|O(1)|O(n)|O(log n)|O(n log n)|1
+8|2|Which algorithm is used to find the shortest path in weighted graphs?|Dijkstra|DFS|BFS|Prim|1
+8|2|Which data structure is used in implementing DFS iteratively?|Stack|Queue|Priority Queue|Heap|1
+8|2|Which data structure is used in implementing BFS?|Queue|Stack|Heap|Deque|1
+8|2|Which sorting algorithm works best for nearly sorted arrays?|Insertion Sort|Quick Sort|Heap Sort|Merge Sort|1
+8|2|Which hashing method resolves collisions by finding next empty slot?|Open Addressing|Chaining|Double Hashing|Separate Chaining|1
+8|2|Which algorithm is used to detect cycles in a directed graph?|DFS with recursion|BFS|Kruskal|Prim|1
+8|2|Which tree guarantees O(log n) height?|AVL Tree|Binary Tree|BST|Red-Black Tree|1
+8|2|Which traversal is used to serialize a binary tree?|Level Order|Inorder|Preorder|Postorder|1
+8|2|Which is a self-balancing binary search tree?|AVL Tree|Binary Tree|BST|Red-Black Tree|1
+8|2|What is the time complexity of inserting an element in a heap?|O(log n)|O(1)|O(n)|O(n log n)|1
+8|2|Which algorithm is used to find minimum spanning tree in a graph?|Prim|Dijkstra|Floyd-Warshall|Bellman-Ford|1
+8|2|Which algorithm is used to sort nearly sorted arrays efficiently?|Insertion Sort|Quick Sort|Merge Sort|Heap Sort|1
+8|2|Which data structure is used to implement LRU Cache efficiently?|Hash Map + Doubly Linked List|Stack|Queue|Array|1
+8|2|Which search algorithm works on uniformly distributed sorted arrays?|Interpolation Search|Binary Search|Linear Search|Jump Search|1
+8|2|Which algorithm finds strongly connected components in a graph?|Kosaraju|Dijkstra|Prim|Kruskal|1
+8|2|Which data structure is used to implement adjacency list for graphs?|Array of Linked Lists|2D Array|Stack|Queue|1
+8|2|Which algorithm is used for topological sorting in DAG?|DFS|BFS|Dijkstra|Bellman-Ford|1
+8|2|What is the worst-case time complexity of quicksort?|O(n^2)|O(n log n)|O(log n)|O(n)|1
+8|2|Which sorting algorithm is stable?|Merge Sort|Quick Sort|Heap Sort|Selection Sort|1
+8|2|Which data structure is used to implement recursive function calls?|Stack|Queue|Array|Linked List|1
+8|2|Which graph representation is more memory efficient for sparse graphs?|Adjacency List|Adjacency Matrix|Incidence Matrix|Edge List|1
+8|2|Which algorithm finds all pairs shortest path in a weighted graph?|Floyd-Warshall|Dijkstra|Bellman-Ford|Prim|1
+8|2|Which dynamic programming problem finds the longest increasing subsequence?|LIS|LCS|Knapsack|Matrix Chain Multiplication|1
+8|2|Which sorting algorithm divides array into partitions?|Quick Sort|Merge Sort|Heap Sort|Bubble Sort|1
+8|2|Which algorithm is used for cycle detection in undirected graph?|Union-Find|DFS|BFS|Prim|1
+8|2|Which data structure is ideal for implementing adjacency matrix?|2D Array|Linked List|Stack|Queue|1
+8|2|Which algorithm is used to find articulation points in a graph?|DFS with low-link values|BFS|Dijkstra|Prim|1
+8|2|Which algorithm is used to find strongly connected components?|Kosaraju|Prim|Dijkstra|Floyd-Warshall|1
+8|2|Which data structure stores elements in key-value format?|Hash Map|Array|Queue|Stack|1
+8|2|Which algorithm finds maximum flow in a network?|Ford-Fulkerson|Kruskal|Prim|Dijkstra|1
+8|2|Which dynamic programming problem finds the minimum edit operations?|Edit Distance|Knapsack|LIS|Matrix Chain Multiplication|1
+8|2|Which is a greedy algorithm problem?|Activity Selection|Longest Increasing Subsequence|Knapsack 0/1|Matrix Chain Multiplication|1
+8|2|Which search algorithm works on infinite sorted lists?|Exponential Search|Binary Search|Linear Search|Jump Search|1
+8|2|Which graph traversal is suitable for shortest path in unweighted graphs?|BFS|DFS|Dijkstra|Prim|1
+8|2|Which data structure is used to implement priority queue?|Heap|Stack|Queue|Linked List|1
+8|2|Which algorithm is used to find articulation points and bridges?|DFS with low-link values|BFS|Dijkstra|Prim|1
+8|2|Which dynamic programming problem calculates optimal parenthesization of matrices?|Matrix Chain Multiplication|Knapsack|LCS|LIS|1
+8|2|Which algorithm is used to detect negative cycles in a graph?|Bellman-Ford|Dijkstra|Floyd-Warshall|Prim|1
+8|2|Which data structure is used to implement undo functionality?|Stack|Queue|Heap|Array|1
+8|2|Which algorithm finds shortest paths from a single source in weighted graph with negative edges?|Bellman-Ford|Dijkstra|Floyd-Warshall|Prim|1
+8|2|Which algorithm finds minimum spanning tree efficiently?|Kruskal|Dijkstra|Bellman-Ford|Floyd-Warshall|1
+8|2|Which algorithm is used to detect cycles in directed graphs?|DFS|BFS|Dijkstra|Prim|1
+8|2|Which hashing technique uses two hash functions to resolve collisions?|Double Hashing|Linear Probing|Chaining|Quadratic Probing|1
+8|2|Which graph algorithm finds shortest paths between all pairs of vertices?|Floyd-Warshall|Dijkstra|Bellman-Ford|Prim|1
+8|2|Which dynamic programming problem calculates the maximum sum of non-adjacent elements?|House Robber Problem|Knapsack|LIS|Edit Distance|1
+8|2|Which is a divide and conquer algorithm for multiplying large numbers?|Karatsuba|Strassen|Floyd-Warshall|Merge Sort|1
+8|2|Which algorithm finds connected components in an undirected graph?|DFS|BFS|Kruskal|Prim|1
+8|2|Which algorithm is used to find bridges in a graph?|DFS with low-link values|BFS|Prim|Kruskal|1
+8|2|Which algorithm is used to find the strongly connected components of a graph?|Kosaraju|Tarjan|Prim|Dijkstra|1
+8|2|Which data structure is used to implement adjacency lists efficiently?|Linked List|Array|Stack|Queue|1
+8|2|Which algorithm is used for topological sorting of a DAG?|DFS|BFS|Dijkstra|Bellman-Ford|1
+8|2|Which dynamic programming problem finds the maximum subarray sum?|Kadane's Algorithm|LIS|LCS|Knapsack|1
+8|2|Which greedy algorithm solves fractional knapsack problem?|Greedy by value/weight ratio|DP|LIS|Matrix Chain Multiplication|1
+8|2|Which algorithm finds minimum spanning tree using edges in increasing order?|Kruskal|Prim|Dijkstra|Bellman-Ford|1
+8|2|Which algorithm is used for shortest path in weighted graphs with non-negative edges?|Dijkstra|Bellman-Ford|Floyd-Warshall|Prim|1
+8|2|Which algorithm is used to find articulation points and bridges in a graph?|DFS with low-link values|BFS|Prim|Kruskal|1
+8|2|Which algorithm finds the maximum flow in a flow network?|Ford-Fulkerson|Dijkstra|Bellman-Ford|Prim|1
+8|2|Which data structure is used in implementing LRU cache efficiently?|Doubly Linked List + Hash Map|Stack|Queue|Array|1
+8|3|Which algorithm finds all strongly connected components in a directed graph?|Kosaraju|Tarjan|DFS|BFS|1
+8|3|Which algorithm is used to find bridges in a graph?|DFS with low-link values|BFS|Prim|Kruskal|1
+8|3|Which algorithm finds articulation points in a graph?|DFS with low-link values|BFS|Prim|Kruskal|1
+8|3|Which algorithm finds the shortest paths between all pairs of vertices?|Floyd-Warshall|Dijkstra|Bellman-Ford|Prim|1
+8|3|Which algorithm finds minimum spanning tree using edges in increasing order?|Kruskal|Prim|Dijkstra|Bellman-Ford|1
+8|3|Which algorithm finds minimum spanning tree starting from a root node?|Prim|Kruskal|Dijkstra|Bellman-Ford|1
+8|3|Which algorithm finds shortest path from a single source in a weighted graph with negative edges?|Bellman-Ford|Dijkstra|Floyd-Warshall|Prim|1
+8|3|Which algorithm solves the fractional knapsack problem?|Greedy by value/weight ratio|Dynamic Programming|LIS|Matrix Chain Multiplication|1
+8|3|Which dynamic programming problem finds the longest common subsequence?|LCS|LIS|Knapsack|Matrix Chain Multiplication|1
+8|3|Which dynamic programming problem finds maximum sum of non-adjacent elements?|House Robber Problem|Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which DP problem calculates optimal parenthesization of matrices?|Matrix Chain Multiplication|Knapsack|LIS|Edit Distance|1
+8|3|Which algorithm is used to detect negative weight cycles in a graph?|Bellman-Ford|Dijkstra|Floyd-Warshall|Prim|1
+8|3|Which data structure is used to implement a range minimum query efficiently?|Segment Tree|Fenwick Tree|Array|Linked List|1
+8|3|Which data structure efficiently supports prefix sum queries?|Fenwick Tree|Segment Tree|Queue|Stack|1
+8|3|Which tree is used for storing strings for fast prefix search?|Trie|AVL|BST|Heap|1
+8|3|Which backtracking problem places N queens on an N×N chessboard?|N-Queens|Sudoku|Maze|Knapsack|1
+8|3|Which backtracking problem fills numbers 1–9 in a 9×9 grid?|Sudoku|N-Queens|Maze|Graph Coloring|1
+8|3|Which algorithm finds maximum flow in a network?|Ford-Fulkerson|Dijkstra|Bellman-Ford|Prim|1
+8|3|Which algorithm finds topological ordering in a DAG?|DFS|BFS|Dijkstra|Bellman-Ford|1
+8|3|Which algorithm finds the lexicographically smallest topological order?|Kahn's Algorithm|DFS|BFS|Prim|1
+8|3|Which DP problem maximizes the total value under weight constraints?|0/1 Knapsack|Fractional Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which DP problem finds the minimum number of insertions/deletions to convert one string into another?|Edit Distance|LCS|Knapsack|Matrix Chain Multiplication|1
+8|3|Which algorithm solves the activity selection problem optimally?|Greedy|DP|Backtracking|Divide & Conquer|1
+8|3|Which algorithm finds shortest path in a weighted DAG?|Topological Sort + Relaxation|Dijkstra|Bellman-Ford|Floyd-Warshall|1
+8|3|Which algorithm finds articulation points using discovery and low values?|DFS|BFS|Prim|Kruskal|1
+8|3|Which algorithm computes strongly connected components in O(V+E)?|Tarjan|Kosaraju|Prim|Dijkstra|1
+8|3|Which data structure supports range sum and point update in O(log n)?|Fenwick Tree|Segment Tree|Array|Queue|1
+8|3|Which data structure supports range min/max query and range update in O(log n)?|Segment Tree with Lazy Propagation|Fenwick Tree|Array|Linked List|1
+8|3|Which backtracking algorithm is used to find Hamiltonian paths?|Backtracking DFS|BFS|Dijkstra|Prim|1
+8|3|Which DP problem finds the length of the longest increasing subsequence?|LIS|LCS|Knapsack|Matrix Chain Multiplication|1
+8|3|Which algorithm finds the shortest path in a weighted undirected graph?|Dijkstra|DFS|BFS|Prim|1
+8|3|Which algorithm finds the shortest path from source to all vertices in a DAG?|Topological Sort + Relaxation|Dijkstra|Bellman-Ford|Floyd-Warshall|1
+8|3|Which greedy algorithm builds Huffman codes?|Huffman Encoding|Kruskal|Prim|Dijkstra|1
+8|3|Which algorithm finds bridges in an undirected graph?|DFS with low-link values|BFS|Prim|Kruskal|1
+8|3|Which algorithm finds minimum spanning tree in a weighted graph with negative edges?|Kruskal|Prim|Dijkstra|Bellman-Ford|1
+8|3|Which algorithm is used for solving Traveling Salesman Problem (TSP) exactly?|DP with bitmask|Greedy|DFS|BFS|1
+8|3|Which algorithm finds the maximum bipartite matching?|Hopcroft-Karp|DFS|BFS|Prim|1
+8|3|Which algorithm solves the coin change problem for minimum coins?|DP|Greedy|Backtracking|Divide & Conquer|1
+8|3|Which algorithm finds longest palindromic subsequence?|DP|Greedy|Backtracking|Divide & Conquer|1
+8|3|Which algorithm calculates minimum edit distance between two strings?|DP|Greedy|Backtracking|Divide & Conquer|1
+8|3|Which algorithm finds the largest rectangle in a histogram?|Stack-based approach|DP|Greedy|Binary Search|1
+8|3|Which DP problem maximizes sum in a 2D matrix path?|Grid DP|Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which algorithm solves subset sum problem?|DP|Greedy|Backtracking|Divide & Conquer|1
+8|3|Which algorithm is used to find next lexicographical permutation?|STL next_permutation|Heap|Stack|Queue|1
+8|3|Which advanced algorithm finds dominator nodes in a flow graph?|Lengauer-Tarjan|DFS|BFS|Prim|1
+8|3|Which data structure is used in segment tree for range sum queries?|Array|Stack|Heap|Queue|1
+8|3|Which DP problem finds minimum cost path in a matrix?|Grid DP|LIS|Knapsack|Edit Distance|1
+8|3|Which algorithm finds the maximum subarray sum in O(n)?|Kadane's Algorithm|DP|Divide & Conquer|Greedy|1
+8|3|Which algorithm solves all pairs shortest path in weighted graph?|Floyd-Warshall|Dijkstra|Bellman-Ford|Prim|1
+8|3|Which algorithm finds the lowest common ancestor in a tree efficiently?|Binary Lifting|DFS|BFS|Segment Tree|1
+8|3|Which algorithm finds all cycles in a directed graph?|Backtracking DFS|DFS|BFS|Kruskal|1
+8|3|Which DP problem finds the minimum number of coins for a target amount?|Coin Change|Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which algorithm is used to solve N-Queens problem?|Backtracking|DFS|Greedy|DP|1
+8|3|Which algorithm is used to solve the maze problem?|Backtracking|DFS|BFS|Greedy|1
+8|3|Which algorithm finds articulation points using Tarjan's method?|DFS with discovery and low values|BFS|Prim|Kruskal|1
+8|3|Which DP problem finds number of ways to reach a sum using given coins?|Coin Change Ways|Knapsack|LIS|Edit Distance|1
+8|3|Which algorithm finds maximum sum rectangle in 2D array?|Kadane + 2D prefix sum|DP|Greedy|Divide & Conquer|1
+8|3|Which algorithm is used to find bridges and articulation points simultaneously?|Tarjan's Algorithm|DFS|BFS|Prim|1
+8|3|Which DP problem finds the maximum sum increasing subsequence?|DP with LIS|Knapsack|Edit Distance|Matrix Chain Multiplication|1
+8|3|Which algorithm finds strongly connected components in O(V+E)?|Tarjan|Kosaraju|Prim|Dijkstra|1
+8|3|Which algorithm is used for offline range queries efficiently?|Mo's Algorithm|Segment Tree|Fenwick Tree|Stack|1
+8|3|Which data structure is used in implementing Trie?|Tree Nodes|Array|Stack|Queue|1
+8|3|Which DP problem finds minimum path sum in triangle?|Triangle DP|Grid DP|Knapsack|LIS|1
+8|3|Which DP problem finds the number of unique paths in a grid?|Grid DP|Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which algorithm is used for finding maximum bipartite matching?|Hopcroft-Karp|DFS|BFS|Prim|1
+8|3|Which DP problem is solved using bitmasking for subsets?|DP with bitmask|Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which advanced structure answers range maximum/minimum with updates?|Segment Tree with Lazy Propagation|Fenwick Tree|Array|Linked List|1
+8|2|Which search algorithm is used on bitonic arrays?|Bitonic Search|Binary Search|Linear Search|Jump Search|1
+8|2|Which data structure is used to implement a queue efficiently using two stacks?|Stack + Stack|Queue + Stack|Array|Linked List|1
+8|2|Which dynamic programming problem calculates the minimum number of jumps to reach the end of an array?|Minimum Jumps|Longest Increasing Subsequence|Knapsack|Edit Distance|1
+8|2|Which algorithm finds the closest pair of points in 2D space efficiently?|Divide & Conquer|Brute Force|Greedy|Dynamic Programming|1
+8|2|Which algorithm finds all permutations of a string efficiently?|Backtracking|Greedy|DFS|BFS|1
+8|2|Which DP problem finds maximum sum rectangle in a 2D matrix?|2D Kadane|LIS|Knapsack|Matrix Chain Multiplication|1
+8|2|Which graph algorithm is used for cycle detection in a directed graph?|DFS with recursion|BFS|Union-Find|Prim|1
+8|3|Which algorithm finds the maximum flow in a graph using Edmonds-Karp method?|Ford-Fulkerson with BFS|DFS|Prim|Kruskal|1
+8|3|Which algorithm finds the dominator tree of a flow graph efficiently?|Lengauer-Tarjan|DFS|BFS|Prim|1
+8|3|Which advanced DP problem calculates maximum profit in weighted job scheduling?|Weighted Job Scheduling|Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which data structure is used to implement persistent arrays?|Segment Tree with Persistence|Fenwick Tree|Array|Stack|1
+8|3|Which algorithm finds bridges and articulation points in a single DFS traversal?|Tarjan's Algorithm|Kosaraju|DFS|Prim|1
+8|3|Which advanced technique is used to answer offline range queries efficiently?|Mo's Algorithm|Segment Tree|Fenwick Tree|Queue|1
+8|3|Which DP problem calculates maximum sum increasing subsequence?|DP with LIS|Knapsack|Matrix Chain Multiplication|Edit Distance|1
+8|3|Which algorithm finds strongly connected components in linear time?|Tarjan|Kosaraju|Prim|Dijkstra|1
+8|3|Which algorithm finds the shortest path in weighted DAG?|Topological Sort + Relaxation|Dijkstra|Bellman-Ford|Floyd-Warshall|1
+8|3|Which advanced DP problem is solved using bitmasking over subsets?|DP with Bitmask|Knapsack|LIS|Matrix Chain Multiplication|1
+8|3|Which segment tree variant supports range updates and queries?|Segment Tree with Lazy Propagation|Fenwick Tree|Array|Linked List|1
+8|3|Which algorithm finds all cycles in a directed graph?|Backtracking DFS|DFS|BFS|Kruskal|1
+8|3|Which backtracking problem is solved using DFS with pruning for N-Queens?|N-Queens|Sudoku|Maze|Graph Coloring|1

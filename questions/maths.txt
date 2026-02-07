@@ -1,0 +1,200 @@
+5|1|What is the value of sin^2(θ) + cos^2(θ)?|0|1|Depends on θ|Undefined|2
+5|1|The roots of x^2 - 5x + 6 = 0 are?|2 and 3|1 and 6|3 and 2|None|1
+5|1|The derivative of x^2 with respect to x is?|x|2x|x^2|2|2
+5|1|The sum of first 10 natural numbers is?|45|50|55|60|3
+5|1|The value of log10(100) is?|10|2|100|1|2
+5|1|Which of the following is an arithmetic progression?|2,4,8,16|1,3,5,7|1,4,9,16|2,3,5,8|2
+5|1|The equation of a line passing through origin with slope 2 is?|y = 2x|y = x + 2|2y = x|y = x/2|1
+5|1|The distance between points (0,0) and (3,4) is?|5|6|7|25|1
+5|1|The area of a triangle with base 5 and height 4 is?|10|20|9|12|1
+5|1|The sum of angles in a triangle is?|90°|180°|360°|270°|2
+5|1|The solution of x + 3 = 7 is?|4|10|3|-4|1
+5|1|The value of cos(0°) is?|0|1|Undefined|-1|2
+5|1|The roots of x^2 + 2x + 1 = 0 are?|1,-1| -1 repeated|0,1|2, -1|2
+5|1|The slope of a horizontal line is?|0|1|∞|Undefined|1
+5|1|The slope of a vertical line is?|0|1|∞|Undefined|3
+5|1|The derivative of sin(x) is?|cos(x)|-cos(x)|-sin(x)|sin(x)|1
+5|1|The integral of 1 with respect to x is?|0|x|1|x^2|2
+5|1|The coefficient of x^2 in (x+2)^2 is?|1|2|4|3|1
+5|1|If x = 3, y = 4, the distance between origin and point (x,y) is?|5|6|7|25|1
+5|1|The sum of interior angles of a pentagon is?|540°|360°|720°|180°|1
+5|1|The roots of x^2 - 2x - 3 = 0 are?|3 and -1|1 and -3|3 and 1|-1 and -3|1
+5|1|The value of 1^3 + 2^3 + ... + n^3 is?|n(n+1)/2|[n(n+1)/2]^2|n^2|n(n+1)(2n+1)/6|2
+5|1|The coordinates of midpoint of (2,3) and (4,5) are?|3,4|2,4|4,3|1,2|1
+5|1|The sum of first n odd numbers is?|n^2|n(n+1)|2n+1|n(n-1)|1
+5|1|If sin(θ) = 1/2, θ = ?|30°|60°|45°|90°|1
+5|1|The roots of x^2 + x - 6 = 0 are?|2 and -3|3 and -2|1 and -6|6 and -1|1
+5|1|The distance formula between (x1,y1) and (x2,y2) is?|√((x2-x1)^2+(y2-y1)^2)|x2-x1+y2-y1|√(x2+x1)^2+(y2+y1)^2|None|1
+5|1|The equation of a circle with center (0,0) and radius r is?|x^2 + y^2 = r|x^2 + y^2 = r^2|x^2 - y^2 = r^2|x^2 + y^2 = 2r|2
+5|1|The derivative of x^3 is?|3x|3x^2|x^3|x^2|2
+5|1|The sum of angles of a quadrilateral is?|360°|180°|540°|90°|1
+5|1|The slope of line joining (1,2) and (3,6) is?|2|1|4|3|1
+5|1|The product of roots of x^2 - 5x + 6 = 0 is?|5|6|1|-6|2
+5|1|The solution of 2x + 3 = 7 is?|2|3|1|4|1
+5|1|The roots of x^2 + 4x + 4 = 0 are?|2 repeated|-2 repeated|1,4|4,-1|2
+5|1|The value of tan(45°) is?|0|1|√3|Undefined|2
+5|1|The sum of interior angles of hexagon is?|720°|540°|360°|1080°|1
+5|1|The integral of x dx is?|1|x|x^2|x^2/2|4
+5|1|The derivative of e^x is?|x|1|e^x|e|3
+5|1|The roots of x^2 - 4 = 0 are?|2 and -2|4 and -4|0 and 4|None|1
+5|1|The sum of first 5 even numbers is?|10|15|30|20|4
+5|1|The value of sin(90°) is?|0|1|1/2|√2/2|2
+5|1|The midpoint of (0,0) and (6,8) is?|3,4|6,8|2,3|4,5|1
+5|1|The distance between points (1,2) and (4,6) is?|5|6|7|8|1
+5|1|The coefficient of x in (x+3)^2 is?|2|3|6|1|2
+5|1|The roots of x^2 - x - 2 = 0 are?|2 and -1|1 and -2|-2 and 1|2 and 1|1
+5|2|If sin(A) = 3/5 and A in first quadrant, find cos(A).|4/5|3/5|5/4|Undefined|1
+5|2|The sum of roots of x^2 - 7x + 10 = 0 is?|5|7|10|2|2
+5|2|The derivative of ln(x) is?|1/x|ln(x)|x|e^x|1
+5|2|Evaluate ∫ x dx from 0 to 2.|1|2|4|2|3
+5|2|If f(x) = x^2 + 3x, f'(2) is?|7|5|8|10|1
+5|2|If tan θ = 1, θ in first quadrant, find sin 2θ.|1|√2|1|0|2
+5|2|The equation of a circle with center (2,3) and radius 5 is?|x^2+y^2=25|(x-2)^2 + (y-3)^2=25|x^2+y^2-25=0|None|2
+5|2|Find the sum of squares of first 10 natural numbers.|385|302|330|405|1
+5|2|If x^2 + y^2 = 1, dy/dx = ?|y/x|-x/y|x/y|-y/x|4
+5|2|The distance between points (2,-1) and (4,3) is?|5|√20|4|6|2
+5|2|The roots of 2x^2 - 7x + 3 = 0 are?|3/2 and 1|1 and 3/2|3 and 1|None|1
+5|2|The sum of first 20 odd numbers is?|400|400|400|400|Oops, 20^2|20^2|2
+5|2|If sin α + cos α = 1, find sin 2α.|1|0|1/2|1/√2|2
+5|2|Evaluate ∫ (2x + 1) dx from 0 to 1.|1|3|2|2.5|3
+5|2|The slope of line perpendicular to y = 3x + 5 is?|3|-3|1/3|-1/3|4
+5|2|The sum of interior angles of a regular octagon is?|1080°|1260°|900°|720°|1
+5|2|If cos θ = 12/13, find sin θ (θ in 1st quadrant).|5/13|12/13|13/12|Undefined|1
+5|2|The distance from point (1,2) to line 3x + 4y - 5 = 0 is?|1|2|0.5|5/5|4
+5|2|The solution of |x-1| = 3 is?|4 and -2|2 and -4|3 and -2|1 and 4|1
+5|2|The derivative of e^(2x) is?|2e^(2x)|e^(2x)|e^x|1|1
+5|2|If y = ln(x^2 + 1), dy/dx = ?|2x/(x^2+1)|1/(x^2+1)|x/(x^2+1)|2/(x^2+1)|1
+5|2|The sum of first n natural numbers divisible by 3 is?|n(n+1)|3n(n+1)/2|n(n+1)/2|Depends on n|2
+5|2|The roots of x^2 + 5x + 6 = 0 are?|2 and 3|-2 and -3|3 and -2|1 and -6|2
+5|2|The value of sin 60° is?|√3/2|1/2|1|√2/2|1
+5|2|Evaluate ∫ x^2 dx from 0 to 1.|1/3|1/2|1|2|1
+5|2|The sum of squares of roots of x^2 - 5x + 6 = 0 is?|25|13|34|11|2
+5|2|If y = sin x cos x, dy/dx = ?|cos^2 x - sin^2 x|sin^2 x - cos^2 x|2 sin x cos x|tan x|1
+5|2|Find the equation of line passing through (1,2) and (3,6).|y=2x|y=2x+0|y=2x+0|y=3x+1|2
+5|2|If sin θ = 3/5, cos θ = ?|4/5|3/5|5/4|1/2|1
+5|2|The roots of x^2 - 6x + 9 = 0 are?|3 repeated|1 and 3|3 and 6|None|1
+5|2|Evaluate ∫ 1/x dx from 1 to e.|1|e|ln e|0|1
+5|2|If y = x^3 - 2x, find dy/dx.|3x^2-2|x^2-2|2x^2|x^2-1|1
+5|2|The slope of tangent to y = x^2 at x = 2 is?|2|4|1|3|2
+5|2|The sum of first 15 natural numbers is?|105|120|110|115|1
+5|2|The roots of x^2 - x - 6 = 0 are?|3 and -2|2 and -3|1 and 6|None|1
+5|2|Find the midpoint of (2,3) and (4,7).|3,5|2,4|3,6|1,5|1
+5|2|If cos α = 3/5, sin α = ?|4/5|3/5|5/3|None|1
+5|2|The derivative of tan x is?|sec^2 x|cosec^2 x|1|cot^2 x|1
+5|2|The integral of cos x dx is?|sin x|-sin x|cos x|1|1
+5|2|The sum of first n even numbers is?|n^2|n(n+1)|2n+1|n(n-1)|2
+5|2|The sum of first n odd numbers is?|n^2|n(n+1)|2n|Depends|1
+5|2|Evaluate ∫ (x+1) dx from 0 to 2.|3|4|5|6|2
+5|2|If y = e^(3x), dy/dx = ?|3e^(3x)|e^(3x)|e^x|3|1
+5|2|The roots of x^2 - 2x - 3 = 0 are?|3 and -1|1 and -3|2 and -1|3 and -1|1
+5|2|The sum of interior angles of a nonagon is?|1260°|1080°|1440°|720°|1
+5|2|The distance between points (1,1) and (4,5) is?|5|6|7|8|1
+5|2|The equation of line through origin with slope 3 is?|y=3x|y=x+3|y=3x+0|y=1/3 x|1
+5|2|Evaluate ∫ x/(x^2 +1) dx.|1/2 ln(x^2 +1)|ln(x^2+1)|1/(x^2+1)|x^2+1|1
+5|2|The derivative of ln(x^2) is?|1/x|2/x|2x|1/2x|2
+5|2|The roots of x^2 + x - 12 = 0 are?|3 and -4|4 and -3|2 and -6|6 and -2|1
+5|2|If sin θ = 12/13, cos θ = ?|5/13|12/13|13/12|Undefined|1
+5|2|The slope of line perpendicular to y= -2x +3 is?|2|-1/2|1/2|-2|2
+5|2|The derivative of cot x is?| -cosec^2 x|cosec^2 x|sec^2 x|-sec^2 x|1
+5|2|The integral of 1/(1+x^2) dx is?|arctan x|arccot x|ln x|x|1
+5|2|If x^2 + y^2 = r^2, dy/dx = ?|-x/y|y/x|x/y|-y/x|1
+5|3|If x^2 + px + q = 0 has roots α and β, then α^3 + β^3 = ?|p^3 - 3pq|-(p^3) + 3pq|p^3 + 3q|p^3 - q^3|2
+5|3|Find the derivative of x^x.|x^x(1+ln x)|x^(x-1)|x^(x+1)|x^x ln x|1
+5|3|The sum to n terms of an AP is S_n = n^2 + n. Find the first term.|2|1|3|0|2
+5|3|If sin A + sin B = a, cos A + cos B = b, then sin(A+B) = ?|ab|a^2 + b^2|b^2 - a^2|a^2 - b^2|4
+5|3|Evaluate lim(x→0) (sin 5x)/x.|5|1|0|∞|1
+5|3|If α and β are roots of x^2 - 4x + 1 = 0, find α^2 + β^2.|14|15|16|17|1
+5|3|The area of triangle with vertices (0,0),(1,2),(3,4) is?|0|1|2|3|1
+5|3|Find the derivative of ln(sin x).|cot x|tan x|1/sin x|-1/sin x|1
+5|3|If y = x^4 - 4x^3 + 6x^2, find dy/dx at x=1.|0|2|3|1|1
+5|3|Find the sum of series 1 + 2 + 4 + 8 + … + 2^(n-1).|2^n-1|2^n|n2^n|2^(n-1)|1
+5|3|If sin θ + cos θ = √2 cos θ, then θ = ?|45°|30°|60°|90°|1
+5|3|The derivative of x*sin x is?|sin x + x cos x|x cos x|cos x|x sin x|1
+5|3|If α, β are roots of x^2 - x -1 =0, find 1/α + 1/β.|1|-1|0|2|1
+5|3|The limit lim(x→0) (1-cos 3x)/x^2 is?|9/2|3|1/2|0|1
+5|3|The sum of first n cubes is?|[n(n+1)/2]^2|n^2(n+1)^2|n(n+1)/2|n^3|1
+5|3|If y = e^(3x) sin 2x, dy/dx = ?|3e^(3x) sin2x + 2e^(3x) cos2x|e^(3x) cos2x|3e^(3x) sin2x|2e^(3x) cos2x|1
+5|3|The maximum value of y = x(10-x) is?|25|5|50|10|1
+5|3|Find the integral ∫ x/(x^2+1) dx.|(1/2)ln(x^2+1)|ln(x^2+1)|x^2|1/x|1
+5|3|If x + 1/x = 3, find x^2 + 1/x^2.|7|9|8|5|1
+5|3|The general solution of sin x = 1/2 is?|x = π/6 + 2nπ, 5π/6 + 2nπ|x = π/3 + 2nπ|x = π/2 + nπ|x = nπ|1
+5|3|The derivative of arcsin x is?|1/√(1-x^2)|-1/√(1-x^2)|1/(1+x^2)|1/(1-x^2)|1
+5|3|The distance between foci of ellipse x^2/9 + y^2/4 =1 is?|√5|√13|√7|√10|3
+5|3|The center of circle x^2 + y^2 -6x +8y +9=0 is?|3,-4|-3,4|3,4|None|1
+5|3|Find dy/dx if y = ln(tan x).|sec^2 x / tan x|tan x / sec^2 x|sin x|cos x|1
+5|3|The roots of x^2 - x + 1 = 0 are?|Complex|Real|Equal|None|1
+5|3|The area bounded by x-axis and y = x^2 from x=0 to x=2 is?|8/3|4/3|2|3|1
+5|3|If α, β, γ are roots of x^3 - 6x^2 +11x -6=0, find α+β+γ.|6|11|1|0|1
+5|3|The sum to infinity of geometric series 2 +1+1/2+… is?|4|3|5|2|1
+5|3|Find derivative of y = x/(x+1).|1/(x+1)^2|1/(x^2+1)|x/(x+1)|x+1|1
+5|3|The solution of |x-2| + |x-3| = 4 is?|x=0 or x=5|x=2,3|x=1,4|x=2|1
+5|3|The sum of series 1/2 + 1/4 +1/8+…∞ is?|1|1/2|2|0|1
+5|3|The derivative of tan^-1 x is?|1/(1+x^2)|1/(1-x^2)|1/x|x|1
+5|3|If sin x + sin y = √2, cos x + cos y = √2, then x=y=?|π/4|π/2|0|π|1
+5|3|The tangent to y = x^2 at (1,1) has slope?|2|1|0|3|1
+5|3|The sum of first 20 terms of AP: a=3, d=2.|460|430|400|420|1
+5|3|If x^2 + y^2 = 1, find dy/dx.|-x/y|y/x|x/y|y^2|1
+5|3|The maximum value of y = 4x - x^2 is?|4|5|6|8|1
+5|3|The derivative of y = sin x cos x is?|cos 2x|sin 2x|2 sin x cos x|tan x|1
+5|3|The integral ∫ e^(2x) dx is?|e^(2x)/2|e^(2x)|2e^(2x)|ln e^(2x)|1
+5|3|The roots of 2x^2 -7x +3=0 are?|3/2,1|1,3/2|3,1|None|1
+5|3|If y = ln(x^2+1), dy/dx=?|2x/(x^2+1)|1/(x^2+1)|x/(x^2+1)|2/(x^2+1)|1
+5|3|The sum of first 15 odd numbers is?|225|256|210|200|1
+5|3|If α, β, γ are roots of x^3 - 3x^2 + 4x -2=0, find αβ+βγ+γα?|4|3|2|1|1
+5|3|The distance between points (2,3) and (5,7) is?|5|6|7|4|2
+5|3|If x + y = 1 and xy = 2, find x^2 + y^2.|-3|3|1|5|1
+5|3|The roots of x^2 + 4x + 13=0 are?|Complex|Real|Equal|None|1
+5|3|Evaluate ∫_0^1 x e^x dx.|1|0|e-2|2|3
+5|3|The derivative of y = x ln x is?|ln x +1|ln x|x|1|1
+5|3|The slope of tangent to y = x^3 - 3x at x =1 is?|0|1|2|3|1
+5|3|Find ∑_{n=1}^{∞} (1/2)^n.|1|1/2|2|0|1
+5|3|The distance from (3,4) to line x+2y-5=0 is?|1|2|3|4|2
+5|3|If cos 3θ = 0, then θ = ?|π/6 + nπ/3|π/3|π/2|π|1
+5|3|The integral ∫ dx/(1+x^2) = ?|arctan x|arcsin x|ln x|x|1
+5|3|The derivative of y = x^2 sin x is?|2x sin x + x^2 cos x|x^2 cos x|x sin x|2x cos x|1
+5|3|The sum to n terms of GP a=2,r=3 is?|2(3^n -1)/2|2(3^n-1)|3^n-1|2^n-1|2
+5|3|If y = cos^2 x, dy/dx=?|-sin2x|sin2x|cos2x|tan2x|1
+5|3|The tangent to circle x^2+y^2=25 at (3,4) is?|3x+4y=25|3x-4y=25|4x+3y=25|x+y=7|1
+5|3|The sum of squares of roots of x^2 - 6x +8 = 0 is?|20|25|18|16|1
+5|3|If f(x) = e^x sin x, f'(x)= ?|e^x(sin x + cos x)|e^x sin x|e^x cos x|e^x sin x cos x|1
+5|3|The area of triangle with vertices (0,0),(2,3),(4,5) is?|0|2|3|1|1
+5|3|If sin A + sin B = √3, cos A + cos B = 1, then A-B=?|π/6|π/3|π/2|π|1
+5|3|The roots of 3x^2-5x+2=0 are?|1,2/3|1/2,1|2,1|None|1
+5|3|Evaluate lim(x→0) (1 - cos 4x)/x^2.|8|16|4|2|2
+5|3|If a,b,c are in G.P., then b^2=?|ac|ab|bc|a+c|1
+5|3|The derivative of y = ln(sin x) is?|cot x|tan x|1/sin x|-1/sin x|1
+5|3|If α, β are roots of x^2 - x -1=0, find α^3 + β^3.|4|2|3|1|1
+5|3|The slope of line perpendicular to 2x - y + 1 =0 is?|2|1/2|-2|-1/2|4
+5|3|The integral ∫ x^2 e^x dx = ?|e^x(x^2 -2x +2)|x^2 e^x|e^x(x^2 +1)|e^x|1
+5|3|The sum of first 20 terms of AP: a=5,d=3 is?|590|600|610|620|1
+5|3|If sin x + sin y =1, cos x + cos y =1, find x=y=?|π/4|π/3|π/2|0|1
+5|3|The maximum value of y = 3x - x^2 is?|9/4|2|3|1|1
+5|3|Evaluate ∫ x/(x^2+4) dx.|(1/2)ln(x^2+4)|ln(x^2+4)|x|1|1
+5|3|The roots of x^2 + x +1 =0 are?|Complex|Real|Equal|None|1
+5|3|The derivative of y = e^x sin 2x is?|e^x(2 cos 2x + sin 2x)|e^x sin 2x|2 e^x cos 2x|e^x cos 2x|1
+5|3|The integral ∫_0^1 x^3 dx = ?|1/4|1/3|1/2|1|1
+5|3|The distance between points (-1,2) and (3,5) is?|5|√25|4|6|2
+5|3|If tan θ = 1, θ in first quadrant, then sin 2θ = ?|1|0|√2|1/2|1
+5|3|The slope of tangent to y = x^3 - 3x at x = 2 is?|9|6|12|3|1
+5|3|If sin α + sin β + sin γ = 0, then ?|α+β+γ=nπ|α+β+γ=0|α+β+γ=π/2|α+β+γ=π|1
+5|3|The area under curve y = x^2 from x=0 to x=3 is?|9|27/3|9/3|3|2
+5|3|The derivative of y = x^x at x=2 is?|6*2^2|2^2|8|4|1
+5|3|If x^2 + y^2 -6x+4y+9=0, find center of circle.|(3,-2)|(-3,2)|(3,2)|None|1
+5|3|The sum of roots of x^3 - 6x^2 + 11x -6=0 is?|6|11|3|None|1
+5|3|Evaluate ∫_0^π sin x dx.|2|1|0|π|1
+5|3|The derivative of y = ln(x^2+1) at x=1 is?|1|1/2|1/3|2|2
+5|2|If the roots of 2x^2 - 5x + 3 = 0 are α and β, find α^3 + β^3.|26/8|34/8|35/8|33/8|3
+5|2|The derivative of y = x^x at x=1 is?|1|2|0|e|1
+5|2|Find the sum of first 20 terms of an AP: a=3, d=5.|530|580|590|600|3
+5|2|If sin A + sin B = 1 and cos A + cos B = 1, find A-B.|π/4|π/3|π/2|0|1
+5|3|Evaluate ∫ (x^2+1)/(x^3+3x) dx.|ln|x||ln(x^3+3x)|arctan x|1
+5|3|The maximum value of y = x(10-x) is?|25|50|20|10|1
+5|2|If x + y = 1 and xy = 2, find x^2 + y^2.|-3|3|1|5|1
+5|3|Find dy/dx if y = ln(sin x).|cot x|tan x|1/sin x|-1/sin x|1
+5|2|The distance between points (2,3) and (5,7) is?|5|√25|6|4|2
+5|3|If α, β, γ are roots of x^3 - 6x^2 +11x -6=0, find αβ+βγ+γα.|11|12|10|9|1
+5|3|The slope of tangent to y = x^3 - 3x at x =1 is?|0|1|2|3|1
+5|2|Find the sum to infinity of GP: 3 + 3/2 + 3/4 + …|6|7|9|8|1
+5|3|Evaluate lim(x→0) (1-cos 5x)/x^2.|25/2|10|5|0|1
+5|2|The sum of squares of roots of x^2 -7x +10=0 is?|29|49|50|51|1
+5|3|If sin θ = 3/5, cos θ = ?|4/5|3/5|5/4|Undefined|1

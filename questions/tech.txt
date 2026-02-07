@@ -1,0 +1,200 @@
+6|1|Which of the following is an input device?|Keyboard|Monitor|Printer|Speaker|1
+6|1|What does CPU stand for?|Central Processing Unit|Computer Processing Unit|Central Peripheral Unit|Control Processing Unit|1
+6|1|Which is volatile memory?|RAM|ROM|Hard Disk|Flash Drive|1
+6|1|Which of the following is software?|Microsoft Word|Keyboard|Mouse|Monitor|1
+6|1|The main function of OS is?|Manage hardware and software|Edit documents|Compile code|Store files|1
+6|1|Which of the following is an operating system?|Linux|MS Word|Chrome|Photoshop|1
+6|1|HTML is used for?|Web Page Structure|Database Management|Networking|Compiling Code|1
+6|1|Which of the following is a type of computer virus?|Trojan|Windows|Linux|Chrome|1
+6|1|Which memory is non-volatile?|ROM|RAM|Cache|Registers|1
+6|1|The size of a byte is?|8 bits|4 bits|16 bits|32 bits|1
+6|1|Which of the following stores data permanently?|Hard Disk|RAM|Cache|Registers|1
+6|1|Firewall is used for?|Network Security|Speed Optimization|Memory Management|Virus Removal|1
+6|1|Which programming language is used for web frontend?|JavaScript|C|Python|Java|1
+6|1|Which is secondary storage?|HDD|CPU|RAM|Cache|1
+6|1|Which network type covers a small area?|LAN|WAN|MAN|PAN|1
+6|1|IP stands for?|Internet Protocol|Internal Program|Input Port|Inter Personal|1
+6|1|Which of the following is a DBMS?|MySQL|Notepad|Excel|Chrome|1
+6|1|The function of compiler is?|Translate code to machine language|Run hardware|Manage network|Store data|1
+6|1|Which is a programming paradigm?|Object-Oriented|Ethernet|HTML|TCP/IP|1
+6|1|BIOS stands for?|Basic Input Output System|Binary Input Output System|Basic Internal Operating System|Binary Internal OS|1
+6|1|Which of the following is a cloud platform?|AWS|Linux|Windows|MacOS|1
+6|1|Which OS is open-source?|Linux|Windows|MacOS|DOS|1
+6|1|Which is used to connect multiple networks?|Router|Switch|Modem|Printer|1
+6|1|Which storage device is fastest?|SSD|HDD|Tape|CD|1
+6|1|The function of cache memory is?|Speed up CPU access|Store large files|Manage network|Compile code|1
+6|1|What does HTTP stand for?|Hypertext Transfer Protocol|Hyperlink Transfer Protocol|Hyper Transfer Protocol|Hyperlink Text Protocol|1
+6|1|IP address is?|Unique network identifier|Password|MAC address|Port number|1
+6|1|Which language is low-level?|Assembly|Python|Java|HTML|1
+6|1|Which is a type of software license?|GPL|RAM|CPU|HTML|1
+6|1|Which is non-volatile storage?|SSD|RAM|Cache|Registers|1
+6|1|Which protocol is used for email?|SMTP|HTTP|FTP|TCP|1
+6|1|Which is primary memory?|RAM|HDD|SSD|CD|1
+6|1|Bit stands for?|Binary Digit|Byte Identifier|Basic Input Terminal|Binary Input Tool|1
+6|1|Which of the following is a hardware device?|Monitor|MS Word|Google Chrome|Python|1
+6|1|The function of ALU is?|Perform arithmetic and logic operations|Store data|Control input/output|Manage OS|1
+6|1|Which of the following is an example of open-source software?|Linux|MS Office|Adobe Photoshop|Windows|1
+6|1|Which network device is used to filter traffic?|Firewall|Switch|Hub|Router|1
+6|1|Which type of memory is used for CPU registers?|SRAM|DRAM|HDD|Cache|1
+6|1|Which of the following is used to detect malware?|Antivirus|Compiler|Debugger|IDE|1
+6|1|Which of the following is a NoSQL database?|MongoDB|MySQL|Oracle|SQL Server|1
+6|1|Which of the following is a markup language?|HTML|C++|Java|Python|1
+6|1|Which protocol is used for secure communication?|HTTPS|HTTP|FTP|SMTP|1
+6|1|Which type of OS allows multiple users simultaneously?|Multi-user|Single-user|Batch|Real-time|1
+6|1|Which of the following is an example of a compiler?|GCC|Python Interpreter|Chrome|Notepad|1
+6|1|Which programming language is primarily used for AI?|Python|HTML|CSS|SQL|1
+6|1|Which is an example of object-oriented programming language?|Java|C|Assembly|Bash|1
+6|1|Which is an input-output interface for peripheral devices?|Device driver|Compiler|Interpreter|Debugger|1
+6|1|Which of the following is an IPv6 address?|2001:0db8:85a3:0000:0000:8a2e:0370:7334|192.168.1.1|10.0.0.1|127.0.0.1|1
+6|1|Which is a primary function of OS?|Manage resources|Store databases|Compile code|Design web pages|1
+6|1|Which of the following is a popular IDE?|Visual Studio Code|Chrome|Edge|Notepad|1
+6|1|Which of the following is volatile?|RAM|ROM|SSD|HDD|1
+6|1|Which is used for wireless communication?|Wi-Fi|Ethernet|Cable|Fiber|1
+6|1|Which of the following is used for virtualization?|VMware|Notepad|Chrome|MS Word|1
+6|1|Which is a protocol for file transfer?|FTP|HTTP|SMTP|HTTPS|1
+6|2|Which of the following scheduling algorithms may lead to starvation?|Priority Scheduling|FCFS|Round Robin|SJF|1
+6|2|In a relational database, which key uniquely identifies a row?|Primary Key|Foreign Key|Candidate Key|Alternate Key|1
+6|2|Which IP class provides the largest number of hosts?|Class A|Class B|Class C|Class D|1
+6|2|Which of the following is a type of NoSQL database?|Cassandra|Oracle|MySQL|PostgreSQL|1
+6|2|Which OS allows preemptive multitasking?|Unix|DOS|MS-DOS|Batch OS|1
+6|2|Which of the following network topologies has a single point of failure?|Star|Ring|Bus|Mesh|1
+6|2|Which of the following is a non-relational database?|MongoDB|Oracle|SQL Server|MySQL|1
+6|2|What is the default port number for HTTPS?|443|80|21|22|1
+6|2|Which RAID level provides both striping and mirroring?|RAID 10|RAID 5|RAID 0|RAID 1|1
+6|2|Which sorting algorithm has the best average-case time complexity?|Merge Sort|Bubble Sort|Insertion Sort|Selection Sort|1
+6|2|Which of the following is an interpreted language?|Python|C|C++|Java|1
+6|2|Which of the following is a symmetric encryption algorithm?|AES|RSA|ECC|DSA|1
+6|2|Which layer of OSI handles encryption and compression?|Presentation|Application|Network|Data Link|1
+6|2|Which of the following is a stable sorting algorithm?|Merge Sort|Quick Sort|Heap Sort|Selection Sort|1
+6|2|Which memory management technique uses fixed-size blocks?|Paging|Segmentation|Dynamic Allocation|Swapping|1
+6|2|Which database command is used to remove all records from a table?|TRUNCATE|DELETE|DROP|REMOVE|1
+6|2|Which of the following is an example of thin client architecture?|Google Docs|Microsoft Word|Photoshop|Visual Studio|1
+6|2|Which of the following protocols is used for secure remote login?|SSH|FTP|HTTP|Telnet|1
+6|2|Which data structure is used in BFS algorithm?|Queue|Stack|Priority Queue|Linked List|1
+6|2|Which protocol is connectionless?|UDP|TCP|HTTP|SMTP|1
+6|2|Which OS kernel type combines microkernel and monolithic features?|Hybrid|Microkernel|Monolithic|Layered|1
+6|2|Which of the following is used to detect and correct errors in data transmission?|Parity Bit|Bitmask|CRC|Checksum|3
+6|2|Which type of cloud service provides software over the internet?|SaaS|IaaS|PaaS|DaaS|1
+6|2|Which of the following is a deadlock prevention strategy?|Resource Ordering|Round Robin|FIFO|Priority Scheduling|1
+6|2|Which database constraint ensures unique values in a column?|Unique|Primary Key|Foreign Key|Check|1
+6|2|Which of the following is a NoSQL wide-column store?|HBase|MySQL|PostgreSQL|Oracle|1
+6|2|Which command in SQL retrieves data from a table?|SELECT|INSERT|UPDATE|DELETE|1
+6|2|Which CPU scheduling algorithm is preemptive and uses shortest remaining time?|SRTF|FCFS|Priority Non-preemptive|Round Robin|1
+6|2|Which layer of TCP/IP handles routing of packets?|Network|Transport|Application|Physical|1
+6|2|Which programming concept uses objects and classes?|OOP|Procedural|Functional|Logic|1
+6|2|Which OS feature allows multiple processes to share CPU efficiently?|Multitasking|Batch Processing|Single User Mode|Time Sharing|4
+6|2|Which topology is most resilient to node failure?|Mesh|Bus|Ring|Star|1
+6|2|Which of the following is a symmetric key cryptography example?|DES|RSA|ECC|DSA|1
+6|2|Which SQL statement modifies existing data in a table?|UPDATE|ALTER|INSERT|SELECT|1
+6|2|Which data structure is used in recursion for function calls?|Stack|Queue|Linked List|Array|1
+6|2|Which of the following is true about SSDs compared to HDDs?|Faster|Slower|Larger Capacity|Volatile|1
+6|2|Which type of IP address is private in IPv4?|192.168.x.x|10.0.0.1|172.16.x.x|All of the above|4
+6|2|Which protocol resolves domain names to IP addresses?|DNS|DHCP|SMTP|HTTP|1
+6|2|Which OS component manages I/O devices?|Device Drivers|Kernel|Shell|File System|1
+6|2|Which of the following is a non-preemptive CPU scheduling algorithm?|FCFS|Round Robin|SRTF|Priority Preemptive|1
+6|2|Which database is suitable for hierarchical data?|MongoDB|Oracle|Neo4j|MySQL|3
+6|2|Which cloud deployment model is private to a single organization?|Private Cloud|Public Cloud|Community Cloud|Hybrid Cloud|1
+6|2|Which of the following is used for network error detection?|Checksum|Bitmask|Parity|All of the above|4
+6|2|Which type of server responds to DNS requests?|Name Server|Mail Server|Web Server|File Server|1
+6|2|Which protocol is used for sending emails securely?|SMTPS|SMTP|IMAP|POP3|1
+6|2|Which type of firewall filters traffic based on application data?|Application Layer Firewall|Packet Filtering Firewall|Stateful Firewall|Proxy Firewall|1
+6|2|Which storage architecture connects storage devices via network?|SAN|NAS|DAS|RAID|1
+6|2|Which data structure allows O(1) average lookup for keys?|Hash Table|Array|Stack|Queue|1
+6|2|Which protocol is used for transferring files over secure connection?|SFTP|FTP|HTTP|SMTP|1
+6|2|Which scheduling algorithm assigns CPU based on arrival time?|FCFS|SJF|Round Robin|Priority|1
+6|2|Which OS concept protects memory between processes?|Virtual Memory|Paging|Segmentation|Buffering|1
+6|2|Which of the following is a popular NoSQL graph database?|Neo4j|MySQL|Oracle|PostgreSQL|1
+6|2|Which type of cloud model combines public and private clouds?|Hybrid|Community|Private|Public|1
+6|2|Which SQL statement removes a table completely?|DROP|DELETE|TRUNCATE|ALTER|1
+6|2|Which of the following is used for secure communication over HTTP?|HTTPS|HTTP|FTP|SSH|1
+6|2|Which type of software testing involves testing individual modules?|Unit Testing|Integration Testing|System Testing|Acceptance Testing|1
+6|2|Which of the following algorithms is divide-and-conquer?|Merge Sort|Bubble Sort|Insertion Sort|Selection Sort|1
+6|2|Which of the following is a valid IPv6 address?|2001:0db8:85a3:0000:0000:8a2e:0370:7334|192.168.1.1|10.0.0.1|127.0.0.1|1
+6|2|Which database model stores data in key-value pairs?|Redis|Oracle|MySQL|PostgreSQL|1
+6|2|Which OS type is used in embedded systems?|Real-Time OS|Batch OS|Single User OS|Multi-User OS|1
+6|2|Which of the following scheduling algorithms is preemptive and fair for time-sharing?|Round Robin|FCFS|Priority Non-preemptive|SJF|1
+6|2|Which type of network attack involves intercepting communication secretly?|Man-in-the-Middle|DOS|Spoofing|Phishing|1
+6|2|Which of the following memory types is fastest?|Registers|RAM|Cache|HDD|1
+6|2|Which cloud service allows hardware and OS management?|IaaS|PaaS|SaaS|DaaS|1
+6|2|Which type of SQL join returns all rows from both tables?|FULL OUTER JOIN|INNER JOIN|LEFT JOIN|RIGHT JOIN|1
+6|2|Which of the following OS scheduling algorithms minimizes average waiting time?|SJF|FCFS|Round Robin|Priority|1
+6|2|Which networking device connects multiple networks?|Router|Switch|Hub|Bridge|1
+6|2|Which data structure allows insertion at one end and deletion at the other?|Queue|Stack|Array|Linked List|1
+6|2|Which type of cyber attack encrypts user files for ransom?|Ransomware|Spyware|Trojan|Virus|1
+6|2|Which cloud model is shared between multiple organizations?|Community Cloud|Private Cloud|Public Cloud|Hybrid Cloud|1
+6|2|Which of the following is a functional programming language?|Haskell|Java|C++|Python|1
+6|3|Which CPU scheduling algorithm can minimize average waiting time but may cause starvation?|Shortest Remaining Time First (SRTF)|FCFS|Round Robin|Priority Non-preemptive|1
+6|3|Which of the following RAID levels can tolerate two disk failures?|RAID 6|RAID 5|RAID 1|RAID 0|1
+6|3|Which deadlock prevention method assigns a unique ordering to resources?|Resource Ordering|Banker’s Algorithm|Wait-Die|Wound-Wait|1
+6|3|In TCP, which field ensures reliable delivery?|Sequence Number|Checksum|Window Size|TTL|1
+6|3|Which DNS record maps a domain to an IPv4 address?|A Record|CNAME|MX|PTR|1
+6|3|In virtual memory, page replacement using least recently used (LRU) is an example of?|Dynamic Allocation|Static Allocation|Demand Paging|Swapping|3
+6|3|Which SQL clause is used to combine rows from two or more tables based on a related column?|JOIN|UNION|GROUP BY|WHERE|1
+6|3|Which cloud service model allows users to deploy custom applications without managing the underlying hardware?|PaaS|SaaS|IaaS|DaaS|1
+6|3|Which network protocol provides flow control, error detection, and connection-oriented communication?|TCP|UDP|IP|ICMP|1
+6|3|Which type of firewall examines the application layer data for filtering?|Application Layer Firewall|Packet Filtering Firewall|Stateful Inspection Firewall|Proxy Firewall|1
+6|3|Which type of database normalization removes transitive dependencies?|Third Normal Form (3NF)|First Normal Form (1NF)|Second Normal Form (2NF)|Boyce-Codd Normal Form (BCNF)|1
+6|3|Which algorithm is used in digital signatures for authentication?|RSA|AES|DES|SHA-256|1
+6|3|In a B-Tree of order m, the maximum number of children per node is?|m|m-1|2m|m+1|1
+6|3|Which type of memory allocation uses contiguous memory blocks?|Static Allocation|Dynamic Allocation|Paging|Segmentation|1
+6|3|Which type of attack floods a server with requests to exhaust resources?|Denial of Service (DoS)|Man-in-the-Middle|Phishing|Trojan|1
+6|3|Which of the following is an ACID property in databases?|Consistency|Connectivity|Concurrency|Communication|1
+6|3|Which of the following data structures allows O(1) insertion, deletion, and search on average?|Hash Table|Linked List|Array|Queue|1
+6|3|Which IPv6 feature allows multiple addresses per interface?|Address Autoconfiguration|Subnetting|NAT|DHCP|1
+6|3|Which OS scheduling algorithm uses dynamic time quanta based on process priority?|Multilevel Feedback Queue|Round Robin|FCFS|SJF|1
+6|3|Which TCP flag indicates the start of a connection?|SYN|ACK|FIN|RST|1
+6|3|Which database index structure supports range queries efficiently?|B+ Tree|Hash Index|Bitmap Index|R-Tree|1
+6|3|Which type of cloud model allows sharing of infrastructure among multiple organizations?|Community Cloud|Private Cloud|Public Cloud|Hybrid Cloud|1
+6|3|Which cryptographic method uses two different keys for encryption and decryption?|Asymmetric Encryption|Symmetric Encryption|Hashing|Steganography|1
+6|3|Which OS mechanism prevents a process from accessing memory of another process?|Memory Protection|Virtual Memory|Segmentation|Paging|1
+6|3|Which network attack intercepts and alters communication between two parties?|Man-in-the-Middle|Phishing|DOS|Spoofing|1
+6|3|Which type of SQL join returns unmatched rows from both tables as well?|FULL OUTER JOIN|INNER JOIN|LEFT JOIN|RIGHT JOIN|1
+6|3|Which type of CPU scheduling algorithm is preemptive and uses dynamic priorities?|Multilevel Feedback Queue|SJF|FCFS|Round Robin|1
+6|3|Which of the following is used to prevent SQL injection?|Prepared Statements|Dynamic Queries|Triggers|Views|1
+6|3|Which network device operates at both Layer 2 and Layer 3 of OSI model?|Layer 3 Switch|Router|Hub|Bridge|1
+6|3|Which type of cloud deployment is partially private and partially public?|Hybrid Cloud|Private Cloud|Community Cloud|Public Cloud|1
+6|3|Which of the following is a graph database?|Neo4j|MySQL|Oracle|PostgreSQL|1
+6|3|Which scheduling algorithm can lead to convoy effect?|FCFS|SJF|Round Robin|Priority|1
+6|3|Which type of memory is used to store page tables for virtual memory?|TLB (Translation Lookaside Buffer)|Cache|RAM|ROM|1
+6|3|Which network protocol ensures data integrity using checksums?|TCP|UDP|ICMP|IP|1
+6|3|Which RAID level provides parity without mirroring?|RAID 5|RAID 1|RAID 0|RAID 10|1
+6|3|Which SQL clause is used to remove duplicate rows from a result?|DISTINCT|UNIQUE|GROUP BY|HAVING|1
+6|3|Which cloud computing service is responsible for providing virtualized computing resources?|IaaS|SaaS|PaaS|DaaS|1
+6|3|Which OS feature allows multiple processes to execute concurrently on a single CPU?|Time Sharing|Batch Processing|Single User Mode|Real-Time OS|1
+6|3|Which type of attack involves masquerading as a legitimate user?|Spoofing|Phishing|DoS|Ransomware|1
+6|3|Which of the following is used for secure data exchange over a network?|SSL/TLS|HTTP|FTP|SMTP|1
+6|3|Which database isolation level prevents dirty reads but allows non-repeatable reads?|Read Committed|Serializable|Read Uncommitted|Repeatable Read|1
+6|3|Which algorithm is used for public key encryption?|RSA|DES|AES|MD5|1
+6|3|Which type of cloud model allows full control of infrastructure by the user?|Private Cloud|Public Cloud|Community Cloud|Hybrid Cloud|1
+6|3|Which OS component handles interrupts and exceptions?|Kernel|Shell|File System|Device Driver|1
+6|3|Which type of network uses multiple redundant paths for resilience?|Mesh Network|Bus Network|Star Network|Ring Network|1
+6|3|Which data structure is optimal for implementing a priority queue?|Heap|Stack|Queue|Linked List|1
+6|3|Which type of SQL index is best for exact match queries?|Hash Index|B+ Tree Index|Bitmap Index|R-Tree Index|1
+6|3|Which cryptography method is used in Bitcoin?|SHA-256|AES|RSA|MD5|1
+6|3|Which OS memory management technique uses pages of equal size?|Paging|Segmentation|Virtual Memory|Contiguous Allocation|1
+6|3|Which cloud service provides platform for developers to build applications?|PaaS|IaaS|SaaS|DaaS|1
+6|3|Which TCP flag terminates a connection?|FIN|SYN|RST|ACK|1
+6|3|Which algorithm is used to detect cycles in a graph?|DFS with backtracking|BFS|Dijkstra|Prim|1
+6|3|Which protocol is used to assign IP addresses automatically?|DHCP|DNS|HTTP|FTP|1
+6|3|Which database constraint ensures referential integrity?|Foreign Key|Primary Key|Unique|Check|1
+6|3|Which scheduling algorithm uses multiple queues with different priorities?|Multilevel Queue|Round Robin|FCFS|SJF|1
+6|3|Which firewall type filters packets based on connection state?|Stateful Inspection Firewall|Packet Filtering Firewall|Proxy Firewall|Application Layer Firewall|1
+6|3|Which of the following is a strongly typed programming language?|Java|Python|JavaScript|Bash|1
+6|3|Which cloud model provides shared access to resources with metered billing?|Public Cloud|Private Cloud|Hybrid Cloud|Community Cloud|1
+6|3|Which type of OS is used in spacecraft for real-time operation?|RTOS|Unix|Windows|Linux|1
+6|3|Which algorithm is used for shortest path in weighted graphs?|Dijkstra|BFS|DFS|Prim|1
+6|3|Which data structure is used for implementing recursion?|Stack|Queue|Heap|Array|1
+6|3|Which type of SQL join returns rows only when there is a match in both tables?|INNER JOIN|LEFT JOIN|RIGHT JOIN|FULL OUTER JOIN|1
+6|3|Which cloud service allows deployment of virtual networks and VMs?|IaaS|SaaS|PaaS|DaaS|1
+6|3|Which type of attack involves exploiting software bugs to gain control?|Buffer Overflow|Phishing|Man-in-the-Middle|DoS|1
+6|3|Which protocol uses sequence and acknowledgment numbers to ensure reliable delivery?|TCP|UDP|HTTP|ICMP|1
+6|3|Which memory type stores temporary data for fast CPU access?|Cache|HDD|SSD|ROM|1
+6|3|Which OS component schedules processes and allocates CPU?|Scheduler|Kernel|Shell|Device Driver|1
+6|3|Which cloud model combines multiple deployment types for flexibility?|Hybrid|Private|Public|Community|1
+6|3|Which programming paradigm emphasizes immutability and pure functions?|Functional|Object-Oriented|Procedural|Logic|1
+6|3|Which type of SQL attack can exploit dynamic queries?|SQL Injection|Cross-Site Scripting|DoS|ARP Spoofing|1
+6|3|Which algorithm is used in TCP congestion control for fairness?|Additive Increase Multiplicative Decrease (AIMD)|Round Robin|FIFO|SJF|1
+6|3|Which OS technique isolates processes to prevent memory interference?|Virtualization|Segmentation|Paging|Multitasking|1
+6|3|Which cryptographic protocol provides both encryption and authentication?|TLS|HTTP|FTP|SMTP|1
+6|3|Which network layer protocol is responsible for addressing and routing?|IP|TCP|UDP|HTTP|1
+6|3|Which database transaction property ensures atomicity?|Atomicity|Consistency|Isolation|Durability|1

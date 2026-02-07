@@ -1,0 +1,200 @@
+2|1|Python is a ____ language?|Compiled|Interpreted|Assembly|Machine|2
+2|1|Who developed Python?|Dennis Ritchie|Bjarne Stroustrup|Guido van Rossum|James Gosling|3
+2|1|Which symbol is used for comments in Python?|//|#|/* */|--|2
+2|1|Which keyword is used to define function?|func|def|function|define|2
+2|1|Which keyword prints output?|print|echo|cout|write|1
+2|1|Python code blocks are defined by?|Brackets|Semicolon|Indentation|Parentheses|3
+2|1|Which data type stores whole numbers?|float|int|str|bool|2
+2|1|Which data type stores decimal numbers?|int|char|float|bool|3
+2|1|Which data type stores text?|char|string|str|text|3
+2|1|Which data type stores True/False?|int|bool|str|float|2
+2|1|Which keyword is used for conditional check?|if|when|check|case|1
+2|1|Which keyword executes when condition is false?|else|elif|otherwise|default|1
+2|1|Which keyword checks multiple conditions?|if|else|elif|switch|3
+2|1|Which loop repeats code fixed times?|while|for|do-while|repeat|2
+2|1|Which loop repeats while condition is true?|for|while|repeat|while-do|2
+2|1|Which keyword breaks loop?|stop|break|exit|end|2
+2|1|Which keyword skips iteration?|skip|continue|pass|next|2
+2|1|Which keyword does nothing?|pass|null|empty|void|1
+2|1|Which operator adds values?|+|-|*|/|1
+2|1|Which operator divides values?|/|%|//|*|1
+2|1|Which operator gives remainder?|%|/|//|*|1
+2|1|Which operator gives floor division?|/|%|//|*|3
+2|1|Which data structure stores ordered items?|set|dict|list|tuple|3
+2|1|Which data structure stores key-value pairs?|list|tuple|set|dict|4
+2|1|Which data structure is immutable?|list|set|dict|tuple|4
+2|1|Which symbol creates list?|()|{}|[]|<>|3
+2|1|Which symbol creates tuple?|[]|{}|()|<>|3
+2|1|Which symbol creates dictionary?|[]|{}|()|<>|2
+2|1|Which function gives length?|size()|count()|len()|length()|3
+2|1|Which function takes input?|input()|scan()|read()|get()|1
+2|1|Which keyword imports module?|import|include|using|require|1
+2|1|Which keyword handles errors?|try|catch|except|error|3
+2|1|Which keyword executes finally?|finally|end|close|done|1
+2|1|Which file extension is Python?|.py|.python|.pt|.p|1
+2|1|Which function converts to int?|int()|float()|str()|bool()|1
+2|1|Which function converts to string?|string()|str()|char()|text()|2
+2|1|Which operator checks equality?|=|==|!=|<=|2
+2|1|Which operator checks inequality?|==|!=|<=|>=|2
+2|2|Which keyword creates class?|class|struct|object|define|1
+2|2|Which keyword refers to object?|this|self|obj|me|2
+2|2|Which method initializes object?|init()|start()|__init__()|create()|3
+2|2|Which keyword inherits class?|extends|inherits|super|class|1
+2|2|Which function returns absolute value?|abs()||fabs()|absolute()|1
+2|2|Which keyword raises exception?|throw|raise|error|except|2
+2|2|Which block catches exception?|try|catch|except|finally|3
+2|2|Which keyword exits program?|exit()|quit()|Both|None|3
+2|2|Which function opens file?|open()|file()|read()|load()|1
+2|2|Which mode reads file?|r|w|a|x|1
+2|2|Which mode writes file?|r|w|a|x|2
+2|2|Which mode appends file?|r|w|a|x|3
+2|2|Which function reads full file?|read()|readline()|readlines()|load()|1
+2|2|Which function reads one line?|read()|readline()|readlines()|line()|2
+2|2|Which function reads all lines?|read()|readline()|readlines()|lines()|3
+2|2|Which keyword closes file?|close|end|stop|exit|1
+2|2|Which keyword creates generator?|yield|return|gen|next|1
+2|2|Which function gets next value?|next()|yield()|get()|move()|1
+2|2|Which module supports math?|math|cmath|numbers|calc|1
+2|2|Which function returns power?|pow()|power()|exp()|sqrt()|1
+2|2|Which function returns square root?|pow()|sqrt()|root()|square()|2
+2|2|Which keyword creates lambda?|lambda|def|func|inline|1
+2|2|Which function sorts list?|sort()|order()|arrange()|sortedlist()|1
+2|2|Which function returns sorted copy?|sort()|sorted()|order()|arrange()|2
+2|2|Which keyword checks membership?|in|has|exists|contains|1
+2|2|Which keyword removes item?|remove|delete|del|pop|3
+2|2|Which function removes last item?|remove()|del()|pop()|clear()|3
+2|2|Which function adds item?|add()|append()|insert()|push()|2
+2|2|Which keyword defines module?|module|file|import|package|2
+2|2|Which function returns type?|type()|typeof()|class()|kind()|1
+2|2|Which operator checks identity?|is|==|equals|!=|1
+2|2|Which keyword defines docstring?|"""|###|'''|Both 1 & 3|4
+2|2|Which function converts iterable to list?|list()|tuple()|set()|dict()|1
+2|2|Which function converts iterable to tuple?|tuple()|list()|set()|dict()|1
+2|3|Which concept allows dynamic typing?|Duck typing|Static typing|Strong typing|Weak typing|1
+2|3|Which memory handles objects?|Stack|Heap|Cache|Register|2
+2|3|Which keyword forces garbage collection?|gc|collect|del|None|4
+2|3|Which module handles garbage?|gc|sys|os|memory|1
+2|3|Which function returns object id?|id()|ref()|address()|ptr()|1
+2|3|Which keyword creates iterator?|iter|iterator|iter()|next()|3
+2|3|Which function checks iterable?|iterable()|isiter()|hasattr()|None|4
+2|3|Which exception divides by zero?|ZeroDivisionError|ValueError|TypeError|MathError|1
+2|3|Which exception occurs index error?|IndexError|KeyError|ValueError|TypeError|1
+2|3|Which exception for missing key?|IndexError|KeyError|ValueError|TypeError|2
+2|3|Which keyword handles async?|async|await|Both|None|3
+2|3|Which keyword waits async?|wait|sleep|await|hold|3
+2|3|Which module supports threading?|thread|threading|process|multi|2
+2|3|Which module supports multiprocessing?|multi|process|multiprocessing|parallel|3
+2|3|Which function serializes object?|dump()|pickle()|json()|Both 2 & 3|4
+2|3|Which module supports JSON?|json|pickle|xml|yaml|1
+2|3|Which keyword creates decorator?|@|#|$|&|1
+2|3|Which concept modifies function behavior?|Decorator|Generator|Iterator|Closure|1
+2|3|Which keyword captures outer scope?|global|nonlocal|outer|scope|2
+2|3|Which operator unpacks iterable?|*|**|Both|None|3
+2|3|Which feature supports comprehension?|List|Dict|Set|All|4
+2|3|Which function creates range?|range()|xrange()|seq()|loop()|1
+2|3|Which function converts to boolean?|bool()|boolean()|true()|false()|1
+2|3|Which module handles OS operations?|sys|os|path|env|2
+2|3|Which function exits interpreter?|exit()|quit()|Both|None|3
+2|2|Which function checks all elements true?|all()|any()|bool()|check()|1
+2|2|Which function checks any element true?|all()|any()|bool()|check()|2
+2|2|Which function returns max value?|max()|maximum()|high()|top()|1
+2|2|Which function returns min value?|min()|minimum()|low()|bottom()|1
+2|2|Which function sums iterable?|sum()|add()|total()|combine()|1
+2|2|Which function reverses iterable?|reverse()|reversed()|invert()|flip()|2
+2|2|Which keyword defines abstract method?|abstract|@abstractmethod|virtual|interface|2
+2|2|Which module supports ABC?|abc|abstract|interface|oop|1
+2|2|Which keyword supports multiple inheritance?|class|super|inherit|extends|1
+2|2|Which function checks subclass?|issubclass()|isinstance()|inherits()|childof()|1
+2|2|Which function checks object instance?|isinstance()|issubclass()|typeof()|type()|1
+2|2|Which keyword imports all?|import *|from *|from module import *|use *|3
+2|2|Which function returns directory?|dir()|list()|show()|path()|1
+2|2|Which function returns help text?|help()|info()|doc()|manual()|1
+2|2|Which attribute stores documentation?|__doc__|__info__|__help__|__manual__|1
+2|2|Which function reads user input?|input()|scan()|read()|get()|1
+2|2|Which keyword asserts condition?|assert|check|verify|ensure|1
+2|2|Which function opens URL?|urlopen()|open()|request()|get()|1
+2|2|Which module supports requests?|urllib|requests|http|web|2
+2|2|Which keyword creates context manager?|with|using|context|open|1
+2|2|Which method enters context?|__enter__|__start__|__begin__|__in__|1
+2|2|Which method exits context?|__exit__|__end__|__stop__|__out__|1
+2|2|Which module handles datetime?|datetime|time|calendar|clock|1
+2|2|Which function gets current date?|date()|today()|now()|current()|2
+2|2|Which function formats string?|format()|fmt()|style()|shape()|1
+2|2|Which operator formats string?|%|+|*|Both 1 & 4|1
+2|2|Which string method makes uppercase?|upper()|capitalize()|title()|big()|1
+2|2|Which string method removes spaces?|strip()|trim()|cut()|remove()|1
+2|2|Which method splits string?|split()|divide()|cut()|separate()|1
+2|2|Which method joins iterable?|join()|merge()|combine()|attach()|1
+2|2|Which method replaces text?|replace()|change()|swap()|edit()|1
+2|2|Which function checks digit?|isdigit()|isnum()|checkdigit()|num()|1
+2|2|Which function checks alphabet?|isalpha()|ischar()|isletter()|alpha()|1
+2|2|Which function checks alphanumeric?|isalnum()|isnumalpha()|isword()|alphanum()|1
+2|2|Which function checks lowercase?|islower()|isdown()|islow()|lowercase()|1
+2|2|Which function checks uppercase?|isupper()|isup()|isbig()|uppercase()|1
+2|2|Which method removes item by index?|pop()|remove()|del()|clear()|1
+2|2|Which method removes all items?|clear()|pop()|remove()|delete()|1
+2|2|Which function counts items?|count()|len()|size()|total()|2
+2|2|Which function creates dictionary?|dict()|map()|hash()|pair()|1
+2|2|Which function zips iterables?|zip()|pair()|merge()|combine()|1
+2|2|Which function enumerates iterable?|enumerate()|count()|number()|index()|1
+2|2|Which keyword creates frozen set?|frozenset|freeze|setfrozen|constset|1
+2|3|Which concept delays execution?|Lazy evaluation|Early binding|Static binding|None|1
+2|3|Which module handles virtual env?|venv|virtualenv|Both|None|3
+2|3|Which keyword copies shallow?|copy|clone|shallow|None|4
+2|3|Which module copies objects?|copy|clone|duplicate|objectcopy|1
+2|3|Which function deep copies?|deepcopy()|copy()|clone()|dup()|1
+2|3|Which module supports regex?|regex|re|pattern|match|2
+2|3|Which function matches regex?|match()|search()|Both|None|3
+2|3|Which function replaces regex?|replace()|sub()|swap()|change()|2
+2|3|Which module supports logging?|log|logging|logger|record|2
+2|3|Which function logs error?|error()|log()|write()|fail()|1
+2|3|Which module handles subprocess?|subprocess|process|system|exec|1
+2|3|Which function executes shell command?|run()|exec()|system()|Both 1 & 3|4
+2|3|Which module supports async IO?|asyncio|aio|async|thread|1
+2|3|Which function runs coroutine?|run()|await()|execute()|call()|1
+2|3|Which module handles HTTP?|http|requests|urllib|Both 2 & 3|4
+2|3|Which module parses command args?|argparse|sys|getopt|Both 1 & 3|4
+2|3|Which function parses args?|parse_args()|args()|read()|input()|1
+2|3|Which module handles CSV?|csv|table|data|file|1
+2|3|Which function reads CSV?|reader()|readcsv()|load()|csvread()|1
+2|3|Which module handles SQLite?|sqlite|sqlite3|sql|db|2
+2|3|Which function connects DB?|connect()|open()|attach()|db()|1
+2|3|Which module handles threading lock?|lock|thread|threading|mutex|3
+2|3|Which function acquires lock?|acquire()|lock()|hold()|take()|1
+2|3|Which function releases lock?|release()|unlock()|free()|drop()|1
+2|3|Which keyword defines coroutine?|async|await|yield|co|1
+2|3|Which feature suspends function?|yield|pause|stop|break|1
+2|3|Which module handles sockets?|socket|network|net|io|1
+2|3|Which function creates socket?|socket()|connect()|bind()|listen()|1
+2|3|Which function binds socket?|bind()|connect()|listen()|accept()|1
+2|3|Which function listens socket?|listen()|accept()|wait()|hold()|1
+2|3|Which function accepts connection?|accept()|connect()|open()|join()|1
+2|3|Which function sends data?|send()|write()|push()|transfer()|1
+2|3|Which function receives data?|recv()|read()|pull()|get()|1
+2|3|Which module handles encryption?|ssl|crypto|hash|secure|1
+2|3|Which function hashes password?|hash()|encrypt()|digest()|secure()|1
+2|3|Which module handles hashing?|hashlib|crypto|ssl|hash|1
+2|3|Which function generates uuid?|uuid()|uuid4()|generate()|newid()|2
+2|3|Which module handles UUID?|uuid|id|unique|gen|1
+2|3|Which function measures time?|time()|clock()|perf_counter()|Both 1 & 3|4
+2|3|Which function pauses execution?|sleep()|wait()|delay()|hold()|1
+2|3|Which module handles profiling?|profile|cProfile|debug|trace|2
+2|3|Which module traces execution?|trace|debug|inspect|sys|1
+2|2|What will be the output of: print(bool(""))?|True|False|0|None|2
+2|2|Which of the following represents a Python dictionary?|[ ]|{ }|( )|< >|2
+2|2|What is the output of: print(type(None))?|None|<class 'NoneType'>|null|0|2
+2|2|Which module is used for regular expressions in Python?|regex|re|pyregex|pattern|2
+2|2|What does the len() function return for a dictionary?|Memory size|Number of keys|Number of values|Number of items including duplicates|2
+2|2|What is the output of: print(5 // 2)?|2.5|3|2|2.0|3
+2|2|Which statement is used to handle exceptions in Python?|try-except|catch-throw|error-handle|handle|1
+2|2|Which of the following is NOT a valid Python loop?|for|while|do-while|nested for|3
+2|2|What is the output of: print(bool(0))?|True|False|None|0|2
+2|2|Which function converts an iterable into a list?|list()|tuple()|set()|dict()|1
+2|3|Which of the following best describes a generator in Python?|Stores all values at once|Produces values lazily|Is same as list|Consumes more memory|2
+2|3|What is the output of: print([i for i in range(3)])?|[1,2,3]|[0,1,2]|[0,1,2,3]|[1,2]|2
+2|3|Which keyword is used to create an anonymous function?|lambda|anon|def|func|1
+2|3|What will be the output of: print(type(lambda x: x))?|function|<class 'function'>|lambda|method|2
+2|3|What is the output of: print(id(10) == id(10))?|True|False|Depends on OS|Error|1
+2|3|Which of the following causes late binding in Python closures?|Global variables|Default arguments|Loop variables|Class variables|3
+2|3|What is the output of: print([1,2,3] * 2)?|[1,2,3,2]|[2,4,6]|[1,2,3,1,2,3]|Error|3
+2|3|Which method is called when an object is created?|__new__()|__init__()|__create__()|__start__()|1

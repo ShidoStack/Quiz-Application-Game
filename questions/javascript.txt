@@ -1,0 +1,201 @@
+3|1|JavaScript is a ____ language?|Compiled|Interpreted|Assembly|Machine|2
+3|1|JavaScript was developed by?|Guido van Rossum|Brendan Eich|Dennis Ritchie|James Gosling|2
+3|1|Which symbol is used for comments?|//|#|<!-- -->|/* */|1
+3|1|Which keyword declares variable?|var|let|const|All|4
+3|1|Which keyword declares block scoped variable?|var|let|static|define|2
+3|1|Which keyword declares constant?|var|let|const|define|3
+3|1|Which function prints output?|print()|echo()|console.log()|cout|3
+3|1|JavaScript runs in?|Browser|Server|Both|None|3
+3|1|Which operator assigns value?|==|=|===|!=|2
+3|1|Which operator checks equality?|=|==|===|!=|2
+3|1|Which operator checks strict equality?|==|=|===|!=|3
+3|1|Which data type stores numbers?|number|int|float|double|1
+3|1|Which data type stores text?|char|string|text|str|2
+3|1|Which data type stores true/false?|boolean|bool|int|string|1
+3|1|Which keyword defines function?|function|def|func|method|1
+3|1|Which symbol defines block?|{}|()|[]|<>|1
+3|1|Which loop repeats fixed times?|while|for|do-while|repeat|2
+3|1|Which loop repeats while condition true?|for|while|repeat|loop|2
+3|1|Which keyword breaks loop?|stop|break|exit|end|2
+3|1|Which keyword skips iteration?|skip|continue|pass|next|2
+3|1|Which array index starts from?|0|1|-1|Depends|1
+3|1|Which symbol creates array?|{}|()|[]|<>|3
+3|1|Which object stores key-value pairs?|array|list|object|map|3
+3|1|Which method adds element to array?|add()|push()|append()|insert()|2
+3|1|Which method removes last element?|pop()|remove()|delete()|shift()|1
+3|1|Which method removes first element?|pop()|shift()|remove()|delete()|2
+3|1|Which method joins arrays?|join()|concat()|merge()|append()|2
+3|1|Which operator performs addition?|+|-|*|/|1
+3|1|Which operator performs multiplication?|+|-|*|/|3
+3|1|Which operator performs division?|+|-|*|/|4
+3|1|Which function converts to number?|Number()|parseInt()|parseFloat()|All|4
+3|1|Which function converts to string?|String()|toString()|Both|None|3
+3|1|Which keyword checks condition?|if|when|case|check|1
+3|1|Which keyword handles multiple cases?|if|else if|switch|case|3
+3|1|Which keyword defines default case?|else|default|none|break|2
+3|1|Which keyword exits switch?|stop|break|exit|end|2
+3|1|Which value represents no value?|0|null|undefined|Both 2 & 3|4
+3|1|Which function gets length of array?|size()|count()|length|len()|3
+3|2|Which keyword creates arrow function?|=>|->|function|arrow|1
+3|2|Which symbol represents arrow?|=>|->|==>|<=>|1
+3|2|Which scope is var?|Block|Function|Global|Local|2
+3|2|Which scope is let?|Block|Function|Global|Local|1
+3|2|Which scope is const?|Block|Function|Global|Local|1
+3|2|Which object represents browser?|window|document|screen|navigator|1
+3|2|Which object represents HTML page?|window|document|html|dom|2
+3|2|Which method selects element by id?|getElementById()|querySelector()|getElementsByClass()|select()|1
+3|2|Which method selects first match?|querySelector()|querySelectorAll()|getElementById()|select()|1
+3|2|Which method selects all matches?|querySelector()|querySelectorAll()|getElementById()|selectAll()|2
+3|2|Which event occurs on click?|hover|click|press|tap|2
+3|2|Which event occurs on page load?|onload|onclick|onsubmit|onchange|1
+3|2|Which keyword handles exception?|try|catch|throw|error|1
+3|2|Which keyword catches exception?|catch|error|except|handle|1
+3|2|Which keyword throws exception?|throw|raise|error|except|1
+3|2|Which object handles JSON?|JSON|Object|String|Data|1
+3|2|Which method parses JSON?|parse()|stringify()|load()|decode()|1
+3|2|Which method converts to JSON?|parse()|stringify()|encode()|json()|2
+3|2|Which operator checks type?|type()|typeof|instanceof|Both 2 & 3|4
+3|2|Which keyword creates promise?|promise|Promise|async|await|2
+3|2|Which method resolves promise?|then()|catch()|resolve()|Both 1 & 3|4
+3|2|Which method handles rejection?|then()|catch()|reject()|fail()|2
+3|2|Which keyword makes function async?|async|await|promise|defer|1
+3|2|Which keyword waits promise?|wait|sleep|await|hold|3
+3|2|Which API fetches data?|ajax()|fetch()|request()|http()|2
+3|2|Which method sends HTTP GET?|get()|fetch()|request()|send()|2
+3|2|Which method converts response to JSON?|json()|parse()|stringify()|data()|1
+3|2|Which storage stores key-value?|localStorage|sessionStorage|cookie|All|4
+3|2|Which storage clears on tab close?|localStorage|sessionStorage|cookie|None|2
+3|2|Which method sets timeout?|setTimeout()|delay()|wait()|sleep()|1
+3|2|Which method repeats execution?|setTimeout()|setInterval()|repeat()|loop()|2
+3|2|Which operator spreads iterable?|...|*|**|&&|1
+3|3|Which concept hoists variables?|Hoisting|Closure|Scope|Binding|1
+3|3|Which variables are hoisted?|var|let|const|All|1
+3|3|Which variables are not hoisted?|var|let|function|All|2
+3|3|Which concept remembers outer scope?|Closure|Scope|Context|Binding|1
+3|3|Which object represents execution context?|this|self|window|context|1
+3|3|Value of this in global scope?|window|undefined|null|object|1
+3|3|Which keyword changes this binding?|bind()|call()|apply()|All|4
+3|3|Which method passes arguments array?|call()|bind()|apply()|invoke()|3
+3|3|Which method creates new function?|bind()|call()|apply()|create()|1
+3|3|Which loop iterates over values?|for|for...in|for...of|while|3
+3|3|Which loop iterates over keys?|for|for...in|for...of|while|2
+3|3|Which method creates shallow copy?|slice()|concat()|spread|All|4
+3|3|Which method deep copies object?|JSON.parse(JSON.stringify())|assign()|copy()|clone()|1
+3|3|Which operator checks reference?|==|===|instanceof|typeof|3
+3|3|Which keyword defines generator?|function*|generator|yield|gen|1
+3|3|Which keyword pauses generator?|pause|stop|yield|wait|3
+3|3|Which method gets next value?|next()|yield()|get()|move()|1
+3|3|Which concept delays execution?|Lazy evaluation|Event loop|Callback|Promise|2
+3|3|Which queue handles callbacks?|Call stack|Microtask|Task queue|Heap|3
+3|3|Which queue has higher priority?|Task queue|Microtask queue|Call stack|Heap|2
+3|3|Which API schedules microtask?|setTimeout()|Promise|setInterval()|requestAnimationFrame()|2
+3|3|Which object represents module?|module|exports|require|All|4
+3|3|Which syntax exports module?|export|module.exports|Both|None|3
+3|3|Which syntax imports module?|import|require()|Both|None|3
+3|1|Which keyword creates class?|class|struct|object|define|1
+3|1|Which keyword creates object?|new|create|make|init|1
+3|1|Which method converts array to string?|join()|toString()|Both|None|3
+3|1|Which symbol accesses object property?|.|::|->|#|1
+3|1|Which keyword defines constructor?|constructor|init|create|build|1
+3|1|Which keyword refers current object?|this|self|current|me|1
+3|1|Which array method finds element?|find()|search()|lookup()|index()|1
+3|1|Which array method filters elements?|filter()|map()|reduce()|select()|1
+3|1|Which array method transforms elements?|map()|filter()|reduce()|change()|1
+3|1|Which array method reduces values?|reduce()|sum()|total()|merge()|1
+3|1|Which method checks condition?|some()|every()|Both|None|3
+3|1|Which method checks all elements?|every()|some()|filter()|find()|1
+3|1|Which operator performs logical AND?|&&|&|and|AND|1
+3|1|Which operator performs logical OR?||||\||or|OR|1
+3|1|Which operator negates boolean?|!|~|not|neg|1
+3|1|Which keyword defines array destructuring?|[]|{}|Both|None|3
+3|1|Which keyword defines object destructuring?|{}|[]|Both|None|1
+3|1|Which operator merges objects?|+|concat|spread|merge|3
+3|1|Which method freezes object?|freeze()|lock()|seal()|stop()|1
+3|1|Which method seals object?|seal()|freeze()|lock()|close()|1
+3|1|Which value represents missing property?|null|undefined|0|false|2
+3|1|Which operator checks existence?|in|has|exists|contains|1
+3|1|Which function parses integer?|parseInt()|Number()|parseFloat()|All|4
+3|1|Which function parses float?|parseFloat()|Number()|parseInt()|All|4
+3|1|Which keyword ends function?|return|end|stop|exit|1
+3|1|Which keyword exits program?|exit|stop|return|none|4
+3|1|Which symbol denotes template literal?|""|''|``|<>|3
+3|1|Which placeholder used in template?|${}|{}|[]|<>|1
+3|1|Which method trims string?|trim()|strip()|cut()|clean()|1
+3|1|Which method changes to upper case?|toUpperCase()|upper()|capitalize()|big()|1
+3|1|Which method changes to lower case?|toLowerCase()|lower()|small()|down()|1
+3|1|Which method splits string?|split()|slice()|cut()|break()|1
+3|1|Which method extracts substring?|slice()|split()|cut()|remove()|1
+3|1|Which method replaces string?|replace()|change()|swap()|edit()|1
+3|1|Which symbol denotes regex?|//|##|<>|%%|1
+3|1|Which method tests regex?|test()|check()|match()|verify()|1
+3|2|Which keyword enables strict mode?|use strict|strict|enable|mode|1
+3|2|Which feature prevents silent errors?|Strict mode|Hoisting|Closure|Scope|1
+3|2|Which method copies properties?|Object.assign()|copy()|merge()|clone()|1
+3|2|Which method gets keys?|Object.keys()|keys()|getKeys()|fetch()|1
+3|2|Which method gets values?|Object.values()|values()|getValues()|fetch()|1
+3|2|Which method gets entries?|Object.entries()|entries()|pairs()|tuple()|1
+3|2|Which operator checks instance?|instanceof|typeof|in|is|1
+3|2|Which keyword defines default parameter?|=|default|param|None|1
+3|2|Which function delays execution?|setTimeout()|setInterval()|delay()|wait()|1
+3|2|Which method clears timeout?|clearTimeout()|stopTimeout()|cancel()|remove()|1
+3|2|Which method clears interval?|clearInterval()|stopInterval()|cancel()|remove()|1
+3|2|Which API handles async events?|Event loop|Callback|Promise|Thread|1
+3|2|Which function handles events?|addEventListener()|onEvent()|listen()|bind()|1
+3|2|Which phase captures event?|Capturing|Bubbling|Target|Default|1
+3|2|Which phase bubbles event?|Bubbling|Capturing|Target|Default|1
+3|2|Which method prevents default?|preventDefault()|stop()|cancel()|block()|1
+3|2|Which method stops propagation?|stopPropagation()|preventDefault()|stop()|block()|1
+3|2|Which keyword creates iterator?|Symbol.iterator|iterator|iter|for|1
+3|2|Which object handles dates?|Date|Time|Clock|Calendar|1
+3|2|Which method gets year?|getFullYear()|getYear()|year()|fetchYear()|1
+3|2|Which method gets month?|getMonth()|getDate()|month()|fetchMonth()|1
+3|2|Which method gets time?|getTime()|now()|clock()|time()|1
+3|2|Which function gets current time?|Date.now()|now()|getTime()|time()|1
+3|2|Which object handles math?|Math|Calc|Number|Compute|1
+3|2|Which method rounds down?|floor()|ceil()|round()|fix()|1
+3|2|Which method rounds up?|ceil()|floor()|round()|fix()|1
+3|2|Which method generates random?|random()|rand()|generate()|roll()|1
+3|2|Which method finds max?|max()|maximum()|top()|high()|1
+3|2|Which method finds min?|min()|minimum()|low()|bottom()|1
+3|3|Which concept avoids callback hell?|Promise|Closure|Hoisting|Scope|1
+3|3|Which syntax simplifies promises?|async/await|then()|callback|bind()|1
+3|3|Which keyword pauses async function?|await|wait|hold|pause|1
+3|3|Which promise state is initial?|Pending|Resolved|Rejected|Fulfilled|1
+3|3|Which promise state means success?|Fulfilled|Pending|Rejected|Done|1
+3|3|Which promise state means failure?|Rejected|Pending|Fulfilled|Done|1
+3|3|Which method chains promise?|then()|catch()|finally()|All|4
+3|3|Which method always executes?|finally()|then()|catch()|resolve()|1
+3|3|Which function executes immediately?|IIFE|Callback|Promise|Generator|1
+3|3|Which syntax defines IIFE?|()()|{}()|[]()|<>|1
+3|3|Which object stores weak references?|WeakMap|Map|Set|WeakSet|1
+3|3|Which collection stores unique values?|Set|Array|Map|Object|1
+3|3|Which collection stores key-value?|Map|Set|Array|List|1
+3|3|Which object is garbage collected?|WeakMap|Map|Set|Object|1
+3|3|Which API observes DOM changes?|MutationObserver|EventObserver|DOMWatcher|NodeObserver|1
+3|3|Which API handles intersection?|IntersectionObserver|ViewObserver|ScrollObserver|DOMObserver|1
+3|3|Which API schedules animation?|requestAnimationFrame()|setTimeout()|setInterval()|animate()|1
+3|3|Which method converts iterable to array?|Array.from()|spread|concat()|map()|1
+3|3|Which object handles modules?|ES Module|CommonJS|AMD|All|4
+3|3|Which syntax enables lazy loading?|import()|require()|load()|fetch()|1
+3|3|Which concept isolates code?|Module|Closure|Scope|Sandbox|1
+3|3|Which feature supports immutability?|Object.freeze()|Object.seal()|const|All|4
+3|3|Which API handles worker thread?|Web Worker|Thread|Process|Task|1
+3|3|Which object communicates worker?|postMessage()|send()|emit()|transfer()|1
+3|2|What will be the output of: console.log(typeof NaN)?|number|NaN|undefined|object|1
+3|2|Which of the following is NOT a falsy value in JavaScript?|0|""|null|[]|4
+3|2|What is the output of: console.log(1 + "2" + 3)?|6|123|15|Error|2
+3|2|Which keyword declares a block-scoped variable?|var|let|static|define|2
+3|2|What does Array.prototype.map() return?|Modified original array|Boolean value|New array|Iterator|3
+3|2|What is the output of: console.log([] == false)?|true|false|TypeError|undefined|1
+3|2|Which operator checks both value and type equality?|==|=|===|!=|3
+3|2|What is the value of typeof undefined?|null|object|undefined|string|3
+3|2|Which method converts a JSON string into an object?|JSON.stringify()|JSON.parse()|toObject()|parseJSON()|2
+3|2|What will be the output of: console.log(Math.max())?|0|undefined|-Infinity|Infinity|3
+3|3|What is the output of: console.log(foo); var foo = 10;?|10|undefined|ReferenceError|null|2
+3|3|Which concept explains the above behavior?|Scope chaining|Hoisting|Closures|Currying|2
+3|3|What is the output of: console.log(typeof null)?|null|object|undefined|number|2
+3|3|What is the output of: console.log(0.1 + 0.2 === 0.3)?|true|false|NaN|undefined|2
+3|3|Which function creates a new execution context?|Callback|Promise|Function call|Arrow function only|3
+3|3|What will be the output of: (() => { return arguments; })();?|Arguments object|undefined|Error|Empty array|3
+3|3|Which of the following has its own this binding?|Arrow function|Regular function|Callback|Promise|2
+

@@ -1,0 +1,211 @@
+4|1|HTML stands for?|Hyper Text Markup Language|High Text Machine Language|Hyperlinks Text Markup|None|1
+4|1|CSS stands for?|Cascading Style Sheets|Colorful Style Sheets|Creative Style Sheets|Computer Style Sheets|1
+4|1|Which tag defines HTML document?|<html>|<head>|<body>|<doc>|1
+4|1|Which tag contains metadata?|<head>|<meta>|<title>|<info>|1
+4|1|Which tag displays content?|<body>|<content>|<main>|<page>|1
+4|1|Which tag creates paragraph?|<p>|<para>|<text>|<pg>|1
+4|1|Which tag creates heading?|<h1>|<heading>|<head>|<title>|1
+4|1|Which heading is largest?|<h1>|<h6>|<h3>|<h2>|1
+4|1|Which tag creates line break?|<br>|<lb>|<break>|<hr>|1
+4|1|Which tag creates horizontal line?|<hr>|<line>|<br>|<border>|1
+4|1|Which tag creates link?|<a>|<link>|<href>|<url>|1
+4|1|Which attribute specifies URL?|href|src|link|path|1
+4|1|Which tag inserts image?|<img>|<image>|<pic>|<photo>|1
+4|1|Which attribute specifies image path?|src|href|path|link|1
+4|1|Which tag creates list?|<ul>|<li>|<list>|<ol>|1
+4|1|Which tag creates list item?|<li>|<ul>|<ol>|<item>|1
+4|1|Which tag creates ordered list?|<ol>|<ul>|<li>|<list>|1
+4|1|Which tag creates table?|<table>|<tab>|<tbl>|<grid>|1
+4|1|Which tag creates table row?|<tr>|<td>|<th>|<row>|1
+4|1|Which tag creates table data?|<td>|<tr>|<th>|<cell>|1
+4|1|Which tag creates table header?|<th>|<td>|<tr>|<head>|1
+4|1|Which tag creates form?|<form>|<input>|<field>|<submit>|1
+4|1|Which tag takes user input?|<input>|<form>|<textbox>|<field>|1
+4|1|Which input type hides text?|password|text|hidden|secure|1
+4|1|Which button submits form?|submit|reset|button|send|1
+4|1|Which attribute makes field required?|required|mandatory|must|validate|1
+4|1|Which tag groups elements?|<div>|<span>|<group>|<section>|1
+4|1|Which tag is inline?|<span>|<div>|<section>|<article>|1
+4|1|Which tag defines section?|<section>|<div>|<span>|<area>|1
+4|1|Which tag defines navigation?|<nav>|<menu>|<link>|<navigate>|1
+4|1|Which tag defines footer?|<footer>|<bottom>|<end>|<foot>|1
+4|1|Which tag defines header?|<header>|<head>|<top>|<title>|1
+4|1|Which tag defines article?|<article>|<section>|<post>|<content>|1
+4|1|Which tag embeds video?|<video>|<media>|<movie>|<vid>|1
+4|1|Which tag embeds audio?|<audio>|<sound>|<music>|<mp3>|1
+4|1|Which tag embeds iframe?|<iframe>|<frame>|<embed>|<window>|1
+4|1|Which attribute opens link new tab?|target|open|blank|new|1
+4|1|Which target value opens new tab?|_blank|_new|_tab|_self|1
+4|2|Which CSS selects class?|.|#|*|tag|1
+4|2|Which CSS selects id?|#|.|*|id|1
+4|2|Which CSS selects all elements?|*|all|.|#|1
+4|2|Which property changes text color?|color|font-color|text-color|fg|1
+4|2|Which property changes background?|background-color|bgcolor|color|fill|1
+4|2|Which property changes font size?|font-size|text-size|size|font|1
+4|2|Which property changes font style?|font-style|font-type|text-style|style|1
+4|2|Which property makes text bold?|font-weight|bold|weight|thick|1
+4|2|Which property aligns text?|text-align|align|position|float|1
+4|2|Which property removes underline?|text-decoration|underline|decoration|none|1
+4|2|Which display hides element?|none|hidden|block|invisible|1
+4|2|Which display is default block?|block|inline|inline-block|flex|1
+4|2|Which display is inline?|inline|block|flex|grid|1
+4|2|Which property adds space outside?|margin|padding|border|gap|1
+4|2|Which property adds space inside?|padding|margin|gap|border|1
+4|2|Which property adds border?|border|outline|edge|frame|1
+4|2|Which position removes from flow?|absolute|relative|static|fixed|1
+4|2|Which position sticks on scroll?|fixed|absolute|relative|static|1
+4|2|Which position is default?|static|relative|absolute|fixed|1
+4|2|Which unit is relative to parent?|%|px|cm|mm|1
+4|2|Which unit is relative to viewport?|vw|px|em|cm|1
+4|2|Which unit is relative to font?|em|px|vw|cm|1
+4|2|Which property floats element?|float|align|position|move|1
+4|2|Which property clears float?|clear|reset|stop|fix|1
+4|2|Which property sets transparency?|opacity|alpha|transparent|fade|1
+4|2|Which property controls stacking?|z-index|stack|order|layer|1
+4|2|Which property rounds corners?|border-radius|round|curve|radius|1
+4|2|Which property adds shadow?|box-shadow|shadow|drop-shadow|filter|1
+4|2|Which property adds text shadow?|text-shadow|shadow|font-shadow|drop|1
+4|2|Which layout is one-dimensional?|flexbox|grid|table|float|1
+4|2|Which layout is two-dimensional?|grid|flexbox|float|block|1
+4|2|Which property creates flex?|display:flex|flex|layout:flex|box|1
+4|2|Which property aligns items?|align-items|align|justify|place|1
+4|2|Which property spaces flex items?|justify-content|align-items|gap|space|1
+4|3|Which selector has highest priority?|Inline|ID|Class|Tag|1
+4|3|Which priority order is correct?|Inline>ID>Class>Tag|ID>Class>Inline>Tag|Class>ID>Tag>Inline|Tag>Class>ID>Inline|1
+4|3|Which property enables animation?|animation|transition|move|animate|1
+4|3|Which property enables transition?|transition|animation|change|shift|1
+4|3|Which rule defines animation?|@keyframes|@animate|@motion|@frames|1
+4|3|Which property defines duration?|animation-duration|time|duration|speed|1
+4|3|Which property delays animation?|animation-delay|delay|wait|pause|1
+4|3|Which property repeats animation?|animation-iteration-count|repeat|loop|times|1
+4|3|Which property controls speed?|animation-timing-function|speed|curve|ease|1
+4|3|Which property enables responsiveness?|media queries|flexbox|grid|viewport|1
+4|3|Which rule starts media query?|@media|@screen|@responsive|@device|1
+4|3|Which keyword targets screen?|screen|device|display|view|1
+4|3|Which HTML attribute improves SEO?|alt|title|meta|href|1
+4|3|Which tag improves SEO?|<meta>|<div>|<span>|<section>|1
+4|3|Which tag defines main content?|<main>|<body>|<section>|<article>|1
+4|3|Which attribute improves accessibility?|aria-label|alt|title|Both 1 & 2|4
+4|3|Which tag improves accessibility?|<label>|<input>|<form>|<div>|1
+4|3|Which input type validates email?|email|text|mail|validate|1
+4|3|Which input type validates number?|number|text|range|int|1
+4|3|Which CSS prevents overflow?|overflow|hidden|clip|cut|1
+4|3|Which value hides overflow?|hidden|scroll|auto|visible|1
+4|3|Which value adds scrollbar?|scroll|hidden|auto|visible|1
+4|3|Which property fits image?|object-fit|fit|resize|scale|1
+4|3|Which value covers container?|cover|contain|fill|stretch|1
+4|3|Which value keeps aspect ratio?|contain|cover|fill|stretch|1
+4|1|Which tag defines button?|<button>|<input>|<btn>|<click>|1
+4|1|Which input type selects date?|date|time|calendar|day|1
+4|1|Which input type selects color?|color|picker|rgb|hex|1
+4|1|Which input type selects range?|range|slider|scroll|number|1
+4|1|Which input type uploads file?|file|upload|data|attach|1
+4|1|Which attribute disables input?|disabled|readonly|block|stop|1
+4|1|Which attribute makes input readonly?|readonly|disabled|lock|freeze|1
+4|1|Which tag groups form fields?|<fieldset>|<group>|<section>|<div>|1
+4|1|Which tag adds caption to fieldset?|<legend>|<label>|<caption>|<title>|1
+4|1|Which tag defines dropdown?|<select>|<option>|<list>|<menu>|1
+4|1|Which tag defines dropdown item?|<option>|<select>|<item>|<choice>|1
+4|1|Which attribute selects default option?|selected|checked|default|active|1
+4|1|Which attribute checks checkbox?|checked|selected|on|true|1
+4|1|Which tag defines checkbox?|<input>|<check>|<box>|<tick>|1
+4|1|Which input type defines checkbox?|checkbox|check|tick|boolean|1
+4|1|Which tag defines radio button?|<input>|<radio>|<option>|<select>|1
+4|1|Which input type defines radio?|radio|option|choice|select|1
+4|1|Which tag displays tooltip?|title|tooltip|hint|help|1
+4|1|Which tag defines abbreviation?|<abbr>|<short>|<small>|<acronym>|1
+4|1|Which tag defines emphasis?|<em>|<strong>|<i>|<b>|1
+4|1|Which tag defines strong text?|<strong>|<b>|<em>|<big>|1
+4|1|Which tag italicizes text?|<i>|<em>|<italic>|<it>|1
+4|1|Which tag underlines text?|<u>|<underline>|<line>|<ul>|1
+4|1|Which tag strikes text?|<strike>|<s>|<del>|All|4
+4|1|Which tag defines deleted text?|<del>|<strike>|<remove>|<cut>|1
+4|1|Which tag defines inserted text?|<ins>|<add>|<new>|<insert>|1
+4|1|Which tag displays code?|<code>|<pre>|<kbd>|<script>|1
+4|1|Which tag preserves whitespace?|<pre>|<code>|<space>|<ws>|1
+4|1|Which tag defines keyboard input?|<kbd>|<key>|<input>|<code>|1
+4|1|Which tag defines sample output?|<samp>|<output>|<result>|<code>|1
+4|1|Which tag defines variable?|<var>|<variable>|<v>|<code>|1
+4|1|Which tag groups inline elements?|<span>|<div>|<section>|<group>|1
+4|1|Which tag embeds SVG?|<svg>|<vector>|<graphic>|<shape>|1
+4|1|Which tag embeds canvas?|<canvas>|<draw>|<paint>|<board>|1
+4|1|Which attribute sets width?|width|size|w|length|1
+4|1|Which attribute sets height?|height|size|h|length|1
+4|2|Which CSS resets default styles?|reset.css|normalize.css|Both|None|3
+4|2|Which selector selects child?|>|+|~|*|1
+4|2|Which selector selects adjacent sibling?|+|>|~|*|1
+4|2|Which selector selects general sibling?|~|+|>|*|1
+4|2|Which pseudo-class selects hover?|:hover|::hover|:focus|::focus|1
+4|2|Which pseudo-class selects focus?|:focus|::focus|:active|::active|1
+4|2|Which pseudo-class selects first child?|:first-child|:first|:child|::first|1
+4|2|Which pseudo-class selects last child?|:last-child|:last|:end|::last|1
+4|2|Which pseudo-element styles first line?|::first-line|:first-line|::line|:line|1
+4|2|Which pseudo-element styles first letter?|::first-letter|:first-letter|::letter|:letter|1
+4|2|Which property hides overflow content?|overflow|clip|hidden|mask|1
+4|2|Which value auto adds scrollbar?|auto|scroll|hidden|visible|1
+4|2|Which property defines grid?|display:grid|grid|layout:grid|box|1
+4|2|Which property defines columns?|grid-template-columns|grid-columns|columns|template|1
+4|2|Which property defines rows?|grid-template-rows|grid-rows|rows|template|1
+4|2|Which property aligns grid items?|align-items|justify-items|place-items|All|4
+4|2|Which property aligns grid content?|align-content|justify-content|place-content|All|4
+4|2|Which property sets gap?|gap|space|margin|padding|1
+4|2|Which property orders flex items?|order|index|z-index|position|1
+4|2|Which property controls flex size?|flex|flex-grow|flex-basis|All|4
+4|2|Which property wraps flex items?|flex-wrap|wrap|flow|break|1
+4|2|Which property sets direction?|flex-direction|direction|flow|axis|1
+4|2|Which value makes row direction?|row|column|inline|block|1
+4|2|Which value makes column direction?|column|row|inline|block|1
+4|2|Which property clips element?|clip-path|overflow|mask|hide|1
+4|2|Which property applies filter?|filter|effect|blur|fx|1
+4|2|Which filter blurs element?|blur()|fade()|shadow()|smooth()|1
+4|2|Which filter makes grayscale?|grayscale()|gray()|mono()|bw()|1
+4|2|Which property changes cursor?|cursor|pointer|mouse|hand|1
+4|2|Which value shows hand cursor?|pointer|hand|click|link|1
+4|2|Which property animates smoothly?|transition|animation|motion|move|1
+4|2|Which property sets delay?|transition-delay|delay|wait|pause|1
+4|2|Which property sets duration?|transition-duration|duration|time|speed|1
+4|2|Which property sets easing?|transition-timing-function|ease|curve|smooth|1
+4|3|Which meta enables responsive design?|viewport|responsive|device|screen|1
+4|3|Which viewport width equals device?|device-width|screen-width|auto|fit|1
+4|3|Which viewport scale is default?|1.0|0.5|2.0|auto|1
+4|3|Which HTML attribute lazy loads images?|loading|lazy|defer|async|1
+4|3|Which value enables lazy loading?|lazy|defer|auto|delay|1
+4|3|Which CSS improves performance?|will-change|optimize|cache|speed|1
+4|3|Which property hints browser?|will-change|optimize|prefetch|cache|1
+4|3|Which CSS avoids layout shift?|aspect-ratio|ratio|size|scale|1
+4|3|Which unit is resolution dependent?|vh|vw|rem|dpi|4
+4|3|Which unit is root-relative?|rem|em|px|%|1
+4|3|Which unit is device pixel?|px|dp|pt|vw|1
+4|3|Which feature supports dark mode?|prefers-color-scheme|dark-mode|theme|color-scheme|1
+4|3|Which media query targets print?|print|paper|document|page|1
+4|3|Which attribute improves form UX?|placeholder|hint|text|value|1
+4|3|Which attribute auto completes?|autocomplete|auto|fill|suggest|1
+4|3|Which value disables autocomplete?|off|false|no|disable|1
+4|3|Which attribute submits without reload?|action|method|onsubmit|None|4
+4|3|Which method submits form JS?|submit()|send()|post()|push()|1
+4|3|Which CSS isolates stacking?|isolation|z-index|stack|layer|1
+4|3|Which value creates new context?|isolate|auto|inherit|new|1
+4|3|Which property controls scroll?|scroll-behavior|overflow|scroll|flow|1
+4|3|Which value smooth scrolls?|smooth|auto|soft|ease|1
+4|3|Which API observes resize?|ResizeObserver|SizeObserver|LayoutObserver|ViewObserver|1
+4|3|Which CSS property is used to control the stacking order of elements?|z-index|stack-order|order|layer|1
+4|3|What is the difference between relative, absolute, fixed, and sticky positioning?|They affect margin differently|They affect stacking context differently|They determine how an element is positioned in relation to viewport or parent|All are the same|3
+4|3|Which pseudo-class selects an element when it is being hovered?|:active|:focus|:hover|:checked|3
+4|3|What is the difference between inline, block, and inline-block elements?|Inline elements cannot have height|Block elements cannot have width|Inline-block elements allow setting width/height but stay inline|All are same|3
+4|3|Which HTML attribute specifies a media query for linking CSS?|media|query|type|src|1
+4|3|What is the difference between em, rem, %, and px units in CSS?|em is relative to parent font-size; rem is relative to root; % is relative to parent; px is absolute|All relative|All absolute|Only em and rem are relative|1
+4|3|What is the difference between CSS Grid and Flexbox?|Flexbox is 1D, Grid is 2D|Grid is 1D, Flexbox is 2D|Both are 1D|Both are 2D|1
+4|3|Which CSS property is used to create a stacking context besides z-index?|opacity|transform|position|All of the above|4
+4|3|What is the difference between relative and sticky positioning?|Relative moves element relative to normal; sticky toggles between relative and fixed|Relative is fixed; sticky is relative|No difference|Sticky is deprecated|1
+4|3|Which HTML tag is used to define the document’s metadata?|<meta>|<head>|<title>|<link>|1
+4|3|What is the difference between viewport units vw, vh, vmin, vmax?|vw = viewport width, vh = viewport height, vmin = smaller of vw/vh, vmax = larger of vw/vh|All same|Only vw/vh differ|Deprecated|1
+4|3|Which CSS property can create a new block formatting context?|overflow|display|float|position|1
+4|3|What is the difference between inline styles, internal styles, and external styles?|Priority and specificity|All same|Internal styles override inline|External always overrides|1
+4|3|Which CSS function allows creating responsive layouts using min/max values?|calc()|clamp()|var()|fit-content()|2
+4|3|Which HTML attribute is required for accessibility in images?|alt|title|src|id|1
+4|3|Which CSS pseudo-element inserts content before an element?|:before|:after|::before|::after|3
+4|3|What is the difference between relative, absolute, and fixed positioning in terms of containing block?|Relative = parent, Absolute = nearest positioned ancestor, Fixed = viewport|All relative to parent|Absolute = parent, relative = viewport|Fixed = parent|1
+4|3|Which CSS property allows controlling multiple background images?|background-image|background|background-size|background-repeat|2
+4|3|What is the difference between display:none and visibility:hidden?|display:none removes from layout; visibility:hidden keeps space|Both remove element from layout|Both keep space|None|1
+4|3|Which HTML5 element defines self-contained content that could be reused?|<section>|<article>|<div>|<aside>|2
+4|3|Which CSS property is used to apply a shadow to text?|text-shadow|box-shadow|shadow|font-shadow|1
