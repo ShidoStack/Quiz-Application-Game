@@ -11,17 +11,6 @@ A console-based quiz game developed in C++ that allows users to practice questio
 - Instant feedback with scoring
 - Negative marking for wrong answers
 
-## Folder Structure
-├── src/main.cpp
-├── questions/
-│ ├── cpp.txt
-│ ├── python.txt
-│ ├── javascript.txt
-│ ├── html_css.txt
-│ └── ..
-
-
-
 ## How to Run
 clang++ src/main.cpp -o quiz
 ./quiz
