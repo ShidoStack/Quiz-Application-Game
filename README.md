@@ -15,15 +15,15 @@ A console-based quiz game developed in C++ that allows users to practice questio
 clang++ src/main.cpp -o quiz
 ./quiz
 
-##Scoring System
+## Scoring System
 Correct answer: +1
 Wrong answer: −0.25
 Skipped question: 0
 
-##Technologies Used
+## Technologies Used
 Language: C++
 Compiler: GCC / Clang
 IDE: VS Code
 
-##Author
-Your Name
+## Author
+Lokendra Joshi
