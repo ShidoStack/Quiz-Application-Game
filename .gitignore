@@ -1,18 +1,18 @@
-# Compiled binaries
-quiz
-*.exe
-*.out
-*.o
+# # Compiled binaries
+# quiz
+# *.exe
+# *.out
+# *.o
 
-# macOS
-.DS_Store
+# # macOS
+# .DS_Store
 
-# VS Code
-.vscode/
+# # VS Code
+# .vscode/
 
-# Ignore unrelated folders
-dummyProjects/
-dummuyProjects/
-samplecpp/
-FileHandling/
-sample.html
+# # Ignore unrelated folders
+# dummyProjects/
+# dummuyProjects/
+# samplecpp/
+# FileHandling/
+# sample.html
